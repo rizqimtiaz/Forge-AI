@@ -5,9 +5,6 @@ fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
 | Lab | Purpose | Core Tech |
-| --- | --- | --- |
-| **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
-| **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
@@ -77,6 +74,7 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
+<!-- metadata: 4hsd6qw9yb -->
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
