@@ -6,7 +6,6 @@ application:
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
-| **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
@@ -84,6 +83,13 @@ components/
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
+<!-- metadata: z3o0mx606g -->
+<!-- metadata: lgykak9q02 -->
+<!-- metadata: gu2bcph94e -->
+<!-- metadata: z3b93i42xl -->
+<!-- metadata: u6jz1mmlr3 -->
+<!-- metadata: alw8s6af3g -->
+<!-- metadata: wva18z3vw0 -->
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
