@@ -1,9 +1,6 @@
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
-fully-functional AI laboratories into a single Next.js 14 (App Router)
-application:
-
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
@@ -109,6 +106,16 @@ store/
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
+<!-- metadata: bifet2uo7r -->
+<!-- metadata: 59v4x36tp4 -->
+<!-- metadata: 4giytzey3r -->
+<!-- metadata: pzotik9vea -->
+<!-- metadata: i55mn0yyyx -->
+<!-- metadata: 23aw37cxo6 -->
+<!-- metadata: 16wqq4ajpa -->
+<!-- metadata: w6xta2w62d -->
+<!-- metadata: 61bpc3nwh0 -->
+<!-- metadata: o4sqf41g5l -->
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
