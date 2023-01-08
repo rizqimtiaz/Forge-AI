@@ -59,11 +59,14 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
+<!-- metadata: t94my5wu64 -->
+<!-- metadata: 6ygi1de9at -->
+<!-- metadata: u000sa4u2s -->
+<!-- metadata: bsab5t650d -->
+<!-- metadata: 2857dqsvdd -->
+<!-- metadata: 2bw26jnrqz -->
+<!-- metadata: xr5gz4ui5k -->
 All variables are optional.
-
----
-
-## File map
 
 ```
 app/
