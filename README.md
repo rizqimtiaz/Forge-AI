@@ -69,12 +69,6 @@ All variables are optional.
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-<!-- metadata: ce09hsnsr3 -->
-<!-- metadata: 8fbbvpjksk -->
-<!-- metadata: fgo67u33m9 -->
-<!-- metadata: t61vwb7gd4 -->
-<!-- metadata: amwk97z69s -->
-<!-- metadata: l9ki2s81hy -->
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
@@ -88,6 +82,10 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
+  ai-schemas.ts                # Zod schemas + inferred types
+  utils.ts                     # uuid, seeded rng, color helpers
+  svg-placeholders.ts          # procedural fallbacks
+store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
