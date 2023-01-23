@@ -8,15 +8,6 @@ application:
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
-<!-- metadata: azmi8ydkha -->
-<!-- metadata: 2cref34a2i -->
-<!-- metadata: 9if0tw8yjf -->
-<!-- metadata: g5mvxio2jp -->
-<!-- metadata: 0coiw46q52 -->
-<!-- metadata: qptjwl5wlt -->
-<!-- metadata: 5iyxkoeg4r -->
-<!-- metadata: p4dwtk8vot -->
-<!-- metadata: 8141k2otko -->
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
@@ -38,6 +29,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 ---
 
 ## Getting started
+
+```bash
+# 1. install
+npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
