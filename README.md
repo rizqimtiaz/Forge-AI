@@ -14,6 +14,7 @@ Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
+
 ---
 
 ## Stack
@@ -113,11 +114,5 @@ store/
 ---
 
 ## License
-<!-- metadata: gsbrc6bkrn -->
-<!-- metadata: y24dwj2yie -->
-<!-- metadata: tp96prv3se -->
-<!-- metadata: jwtln1f27c -->
-<!-- metadata: xuce7j61yo -->
-<!-- metadata: p0yz3nltz9 -->
 
 MIT © Forge-AI Labs
