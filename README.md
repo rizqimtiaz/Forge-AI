@@ -34,10 +34,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
-# 2. (optional) wire up AI credentials
-cp .env.example .env.local
-# then edit .env.local
-
 # 3. launch
 npm run dev
 ```
@@ -85,6 +81,12 @@ lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
+<!-- metadata: lmqfbqkcih -->
+<!-- metadata: ljhkxfblth -->
+<!-- metadata: bgsi1t5dxw -->
+<!-- metadata: duvg37nz2e -->
+<!-- metadata: 3ydmagf8zq -->
+<!-- metadata: fry8wm1s87 -->
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
