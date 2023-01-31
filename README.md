@@ -50,7 +50,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ---
 
-## Environment variables
 
 | Variable | Purpose |
 | --- | --- |
@@ -87,6 +86,14 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
+<!-- metadata: 184wxvspvv -->
+<!-- metadata: 5udfxf66w9 -->
+<!-- metadata: w5lkds0v73 -->
+<!-- metadata: ggpwrjdna4 -->
+<!-- metadata: zjq3jymyh5 -->
+<!-- metadata: 2hbc3qjjbt -->
+<!-- metadata: cd5cm6hwu4 -->
+<!-- metadata: 7emgn03zef -->
 ```
 
 ---
