@@ -68,10 +68,12 @@ All variables are optional.
 ```
 app/
   api/
+<!-- metadata: k0aoesznd8 -->
+<!-- metadata: qgx3nm9r50 -->
+<!-- metadata: 4g8v4x7gk7 -->
+<!-- metadata: 5w1sxwglxp -->
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
-    graph-ingest/route.ts      # OCR + triple extraction
-  (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
