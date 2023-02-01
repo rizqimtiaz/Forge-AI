@@ -1,4 +1,3 @@
-# Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
@@ -43,6 +42,13 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+<!-- metadata: vggdxbrgmh -->
+<!-- metadata: eso9qtuxiu -->
+<!-- metadata: uav3zpyqqg -->
+<!-- metadata: 3d225vabpg -->
+<!-- metadata: d4f8feojbo -->
+<!-- metadata: 2fpgtq3sl3 -->
+<!-- metadata: zwjfyv3aqx -->
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
