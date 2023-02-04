@@ -35,9 +35,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 npm install
 
 # 2. (optional) wire up AI credentials
-cp .env.example .env.local
-# then edit .env.local
-
 # 3. launch
 npm run dev
 ```
@@ -100,6 +97,16 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
+<!-- metadata: gflhii8x0k -->
+<!-- metadata: q9pr6177hp -->
+<!-- metadata: xvx4seemj2 -->
+<!-- metadata: hcwo4bz104 -->
+<!-- metadata: wmx8qgenco -->
+<!-- metadata: 3pdofm8gwt -->
+<!-- metadata: 70aympjviq -->
+<!-- metadata: 7231am58f2 -->
+<!-- metadata: kwliig2f1o -->
+<!-- metadata: im6t0jlf82 -->
 
 ## Scripts
 
