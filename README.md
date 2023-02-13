@@ -27,6 +27,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
+<!-- metadata: 7smfb7ol39 -->
 
 ## Getting started
 
@@ -75,8 +76,6 @@ app/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
-  layout.tsx
-  page.tsx
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
