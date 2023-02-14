@@ -76,14 +76,18 @@ app/
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
-  page.tsx
-  globals.css
-components/
-  navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
+<!-- metadata: nujl49daeo -->
+<!-- metadata: ix56dfmxcs -->
+<!-- metadata: hbkvxows7g -->
+<!-- metadata: 7ovqhyny0k -->
+<!-- metadata: f6twcd1wjb -->
+<!-- metadata: 8hqwo5tia2 -->
+<!-- metadata: qjzjqe5pse -->
+<!-- metadata: pi827ecfuq -->
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
