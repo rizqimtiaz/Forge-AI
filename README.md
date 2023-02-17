@@ -26,14 +26,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
-<!-- metadata: rjzvnp5xfk -->
-<!-- metadata: efimzbtv76 -->
-<!-- metadata: 331dirhscn -->
-<!-- metadata: 8epbk6tjma -->
-<!-- metadata: h0ps94gg8q -->
-<!-- metadata: f8o5bwg9hp -->
-<!-- metadata: 5cls5xmb3z -->
-<!-- metadata: 5n7yxiu77l -->
 ---
 
 ## Getting started
@@ -67,6 +59,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
+All variables are optional.
 
 ---
 
