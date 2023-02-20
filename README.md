@@ -20,10 +20,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
-<!-- metadata: j1lvzjg1w7 -->
-<!-- metadata: qtqk9jya3h -->
-<!-- metadata: 9jfl4hdmv3 -->
-<!-- metadata: rr8waavf7b -->
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
@@ -81,6 +77,8 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
+  globals.css
+components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
