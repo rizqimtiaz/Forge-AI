@@ -89,10 +89,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
----
-
-## Keyboard shortcuts
-
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
@@ -109,6 +105,14 @@ store/
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
+<!-- metadata: sclyzzbduw -->
+<!-- metadata: f5x82cyu4q -->
+<!-- metadata: mhrrsnj2g2 -->
+<!-- metadata: 283n2pi3u6 -->
+<!-- metadata: bresaxve5u -->
+<!-- metadata: 93tgxqrvsj -->
+<!-- metadata: e3cwxh2lc0 -->
+<!-- metadata: efjw0f7l05 -->
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
