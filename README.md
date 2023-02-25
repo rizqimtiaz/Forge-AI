@@ -7,16 +7,6 @@ application:
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
-<!-- metadata: rprzr4ftvy -->
-<!-- metadata: 2luyix0woz -->
-<!-- metadata: 4hrm9umjtc -->
-<!-- metadata: 5q1i4483s0 -->
-<!-- metadata: 147n1wrshk -->
-<!-- metadata: mtfjav6jpg -->
-<!-- metadata: 2y3wie5iuw -->
-<!-- metadata: rkobvwibcl -->
-<!-- metadata: e069tg4u9c -->
-<!-- metadata: wzs6ghtjmq -->
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
@@ -47,6 +37,8 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
+
+# 3. launch
 npm run dev
 ```
 
