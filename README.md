@@ -23,9 +23,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
-<!-- metadata: xzkqs39hn8 -->
-<!-- metadata: s2fxyjs7yf -->
-<!-- metadata: 36t38y57rt -->
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
@@ -113,6 +110,8 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+
+---
 
 ## License
 
