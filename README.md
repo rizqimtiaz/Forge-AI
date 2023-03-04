@@ -88,14 +88,6 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
-<!-- metadata: 2kzghsqeqx -->
-<!-- metadata: npeh56q88o -->
-<!-- metadata: rw79of6ywr -->
-<!-- metadata: o7tusfsrr9 -->
-<!-- metadata: jyxbkv0pqc -->
-<!-- metadata: 9oh14si0q7 -->
-<!-- metadata: hg0zh0ghr9 -->
-<!-- metadata: ubqe0jgsvz -->
 
 ---
 
@@ -108,6 +100,9 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
+
+## Scripts
+
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
