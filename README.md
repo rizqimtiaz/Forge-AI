@@ -32,16 +32,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
-<!-- metadata: myi1n1fv29 -->
-<!-- metadata: btrwr9nqbn -->
-<!-- metadata: 6w4n8ncrvk -->
-<!-- metadata: 6pdtfg8go1 -->
-<!-- metadata: yj56v79eut -->
-<!-- metadata: mfy2igs4wj -->
-<!-- metadata: klegvf4091 -->
-<!-- metadata: qpqd2x45xw -->
-<!-- metadata: gy2dyepl6p -->
-<!-- metadata: vtewli7slu -->
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -59,6 +49,8 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > you can clone → `npm run dev` → demo instantly.
 
 ---
+
+## Environment variables
 
 | Variable | Purpose |
 | --- | --- |
