@@ -72,10 +72,6 @@ app/
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
-<!-- metadata: 7woin7yw4i -->
-<!-- metadata: 3u0nzd8gph -->
-<!-- metadata: ri6ptw9a9c -->
-<!-- metadata: rnm17jj8ls -->
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
@@ -83,6 +79,10 @@ app/
   page.tsx
   globals.css
 components/
+  navigation/Sidebar.tsx       # Animated lab switcher
+  ui/VisualEngine.tsx          # Shared high-performance canvas
+lib/
+  ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
