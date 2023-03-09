@@ -64,6 +64,8 @@ All variables are optional.
 ---
 
 ## File map
+<!-- metadata: 3b1mtoqgcu -->
+<!-- metadata: xo7tuy2dbo -->
 
 ```
 app/
@@ -102,9 +104,6 @@ store/
 ---
 
 ## Scripts
-
-| Command | |
-| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
