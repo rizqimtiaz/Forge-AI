@@ -27,6 +27,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
+<!-- metadata: wq52gmsnx8 -->
 
 ## Getting started
 
@@ -89,7 +90,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
----
 
 ## Keyboard shortcuts
 
