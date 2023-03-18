@@ -37,8 +37,6 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
-
-# 3. launch
 npm run dev
 ```
 
@@ -77,6 +75,14 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
+<!-- metadata: zczvk5s35z -->
+<!-- metadata: cyz7529box -->
+<!-- metadata: k5cimwgzm5 -->
+<!-- metadata: j7m3rbynkp -->
+<!-- metadata: 8atplb1jyu -->
+<!-- metadata: 63rpmm9xo2 -->
+<!-- metadata: fu8wkbv03c -->
+<!-- metadata: 2dpf2xce0q -->
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
