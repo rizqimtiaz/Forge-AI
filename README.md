@@ -40,6 +40,9 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
@@ -105,14 +108,6 @@ store/
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
-<!-- metadata: k81922vmow -->
-<!-- metadata: zwoa8mah9c -->
-<!-- metadata: 2w38r9u2gc -->
-<!-- metadata: wl5xtm9ya5 -->
-<!-- metadata: 94e53j4fid -->
-<!-- metadata: e6apedro9s -->
-<!-- metadata: xms41jyfp1 -->
-<!-- metadata: vjwmkr1y8w -->
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
