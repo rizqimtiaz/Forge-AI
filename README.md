@@ -1,7 +1,6 @@
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
-fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
 | Lab | Purpose | Core Tech |
@@ -90,6 +89,11 @@ store/
 ```
 
 ---
+<!-- metadata: y0okefyiu8 -->
+<!-- metadata: zep10c3y5w -->
+<!-- metadata: yawifrgnlx -->
+<!-- metadata: hzheynrf7i -->
+<!-- metadata: v7evrvsnhc -->
 
 ## Keyboard shortcuts
 
