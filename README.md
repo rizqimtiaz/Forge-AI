@@ -70,11 +70,19 @@ app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
+<!-- metadata: bgya406oms -->
+<!-- metadata: ym3hdwsn6h -->
+<!-- metadata: i87ub5noux -->
+<!-- metadata: i19pv5b0qm -->
+<!-- metadata: n1z62i6n3v -->
+<!-- metadata: tij55fu2kn -->
+<!-- metadata: znnbwaeuqv -->
+<!-- metadata: fjxpw944kr -->
+<!-- metadata: hjgmoxeos0 -->
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
-    doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
   globals.css
