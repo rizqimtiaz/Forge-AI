@@ -78,6 +78,11 @@ app/
   layout.tsx
   page.tsx
   globals.css
+<!-- metadata: c60cvcond8 -->
+<!-- metadata: zobziopiti -->
+<!-- metadata: k7l7uimnyi -->
+<!-- metadata: nywod1f6qu -->
+<!-- metadata: gezp8hmmg1 -->
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
@@ -108,9 +113,6 @@ store/
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
-| `npm run lint` | ESLint (Next.js core-web-vitals) |
-| `npm run typecheck` | TypeScript `--noEmit` |
-
 ---
 
 ## License
