@@ -13,6 +13,9 @@ application:
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
+aesthetic via Tailwind CSS + Framer Motion.
+
+---
 
 ## Stack
 
@@ -26,11 +29,6 @@ schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 ---
 
 ## Getting started
-<!-- metadata: w3o72lm4si -->
-<!-- metadata: 2byfjrl3th -->
-<!-- metadata: mvqub8nvqp -->
-<!-- metadata: 15zimrm57y -->
-<!-- metadata: 7eyi0rpili -->
 
 ```bash
 # 1. install
