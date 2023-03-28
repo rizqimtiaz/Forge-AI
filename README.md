@@ -69,8 +69,6 @@ All variables are optional.
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-    semantic-draw/route.ts     # ControlNet + latent interpretation
-    graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
@@ -99,6 +97,12 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
+<!-- metadata: 0uvc25opdt -->
+<!-- metadata: tr3pw0iq24 -->
+<!-- metadata: wghyxvnum4 -->
+<!-- metadata: yc9nyybwgo -->
+<!-- metadata: ubfbmm48t8 -->
+<!-- metadata: hkmxeorsmi -->
 ---
 
 ## Scripts
