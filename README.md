@@ -61,11 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
-<!-- metadata: edgdn96d11 -->
-<!-- metadata: jsbd7omip8 -->
-<!-- metadata: xcf4zluksf -->
-<!-- metadata: 996obnh65c -->
-<!-- metadata: hadbcj8jhb -->
 ---
 
 ## File map
@@ -116,6 +111,7 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
+---
 
 ## License
 
