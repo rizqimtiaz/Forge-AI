@@ -41,6 +41,7 @@ cp .env.example .env.local
 # 3. launch
 npm run dev
 ```
+<!-- metadata: noocvawxdf -->
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
@@ -95,10 +96,6 @@ store/
 
 | Key | Action |
 | --- | --- |
-| `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
-| `\` | Collapse / expand the sidebar |
-| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
-
 ---
 
 ## Scripts
