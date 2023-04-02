@@ -99,9 +99,6 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
----
-
-## Scripts
 
 | Command | |
 | --- | --- |
@@ -111,6 +108,13 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
+<!-- metadata: v42exncf4k -->
+<!-- metadata: iqwy6lph2h -->
+<!-- metadata: 1t1tt0hxe2 -->
+<!-- metadata: osycwg17m1 -->
+<!-- metadata: 6i2fgpeqdg -->
+<!-- metadata: 6ufucw3xtr -->
+<!-- metadata: gukzzkbfzl -->
 ---
 
 ## License
