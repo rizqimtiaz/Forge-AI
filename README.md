@@ -45,7 +45,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
-> produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -83,6 +82,12 @@ components/
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
+<!-- metadata: vbaub93yae -->
+<!-- metadata: 2mpkkq52gm -->
+<!-- metadata: ebhhs18r54 -->
+<!-- metadata: 7wjnvtrhq5 -->
+<!-- metadata: 6u5nzim1hx -->
+<!-- metadata: hiisxfi06f -->
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
