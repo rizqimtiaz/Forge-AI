@@ -1,9 +1,5 @@
 # Forge-AI · Three Labs, One Intelligence
 
-Forge-AI is a production-ready monorepo bundling three groundbreaking,
-fully-functional AI laboratories into a single Next.js 14 (App Router)
-application:
-
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
@@ -36,6 +32,8 @@ npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
+<!-- metadata: iqmr3zkoen -->
+<!-- metadata: 2enslsaxul -->
 # then edit .env.local
 
 # 3. launch
