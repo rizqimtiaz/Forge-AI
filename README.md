@@ -1,5 +1,8 @@
 # Forge-AI · Three Labs, One Intelligence
 
+Forge-AI is a production-ready monorepo bundling three groundbreaking,
+fully-functional AI laboratories into a single Next.js 14 (App Router)
+application:
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
@@ -55,13 +58,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
-<!-- metadata: ymhuh5iwvd -->
-<!-- metadata: 7r11pbviul -->
-<!-- metadata: 7pneor0lw1 -->
-<!-- metadata: ovibg7ro5m -->
-<!-- metadata: 36jvk0kb80 -->
-<!-- metadata: ikb3cqmxap -->
-<!-- metadata: g7hjdp3ik7 -->
 
 All variables are optional.
 
