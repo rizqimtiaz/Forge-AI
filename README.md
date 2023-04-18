@@ -28,10 +28,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
-## Getting started
-
-```bash
-# 1. install
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -113,6 +109,12 @@ store/
 
 ---
 
+<!-- metadata: cve9u6omt2 -->
+<!-- metadata: lil0w8wwqf -->
+<!-- metadata: s7k5xfzl4n -->
+<!-- metadata: zsq5ib3gyd -->
+<!-- metadata: o3caj5ce03 -->
+<!-- metadata: 1ep9utjmxt -->
 ## License
 
 MIT © Forge-AI Labs
