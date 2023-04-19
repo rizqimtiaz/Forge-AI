@@ -86,13 +86,12 @@ lib/
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
-  useForgeStore.ts             # Zustand store with three slices
-```
-
----
 
 ## Keyboard shortcuts
 
+<!-- metadata: cgmmbbjusq -->
+<!-- metadata: b3iznj4r5o -->
+<!-- metadata: yjg0wfmiln -->
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
