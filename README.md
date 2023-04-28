@@ -40,9 +40,6 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
@@ -67,6 +64,11 @@ All variables are optional.
 
 ```
 app/
+<!-- metadata: t0xxq2m3cw -->
+<!-- metadata: 6t5u4phzn4 -->
+<!-- metadata: m1bryusd7c -->
+<!-- metadata: pxmz3y90js -->
+<!-- metadata: vhiz6rjh73 -->
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
