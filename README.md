@@ -39,6 +39,15 @@ cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
+<!-- metadata: 46d1h11z56 -->
+<!-- metadata: rsjy4higz2 -->
+<!-- metadata: 6xbvs47l23 -->
+<!-- metadata: 79kjqr3nj8 -->
+<!-- metadata: nyj2g3yyjs -->
+<!-- metadata: 4q6gyps9wv -->
+<!-- metadata: af9956bnxd -->
+<!-- metadata: x04f6pzoxh -->
+<!-- metadata: nwc2krwf1l -->
 npm run dev
 ```
 
@@ -75,7 +84,6 @@ app/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
-  layout.tsx
   page.tsx
   globals.css
 components/
