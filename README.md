@@ -15,6 +15,7 @@ Every lab is powered by a single unified Zustand store (sliced into
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
+---
 
 ## Stack
 
@@ -29,12 +30,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Getting started
 
-<!-- metadata: m1hms5dqk7 -->
-<!-- metadata: zcc7b7djrf -->
-<!-- metadata: at6a75qye0 -->
-<!-- metadata: 2rgdmp379c -->
-<!-- metadata: adgon55u66 -->
-<!-- metadata: vtv3ojnah1 -->
 ```bash
 # 1. install
 npm install
