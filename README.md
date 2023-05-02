@@ -64,10 +64,6 @@ All variables are optional.
 ---
 
 ## File map
-
-```
-app/
-  api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
@@ -94,6 +90,10 @@ store/
 ## Keyboard shortcuts
 
 | Key | Action |
+<!-- metadata: nculberu76 -->
+<!-- metadata: 4rxss3oy5v -->
+<!-- metadata: fzygyz0cfh -->
+<!-- metadata: 5xzzxw3qj6 -->
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
