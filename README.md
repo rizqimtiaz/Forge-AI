@@ -12,10 +12,6 @@ application:
 
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
-schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
-aesthetic via Tailwind CSS + Framer Motion.
-
----
 
 ## Stack
 
@@ -110,6 +106,10 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+<!-- metadata: 6n74stjnr0 -->
+<!-- metadata: gv5xj0tfid -->
+<!-- metadata: adhixga41b -->
+<!-- metadata: akdcqudtck -->
 
 ---
 
