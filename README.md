@@ -27,10 +27,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
-
-## Getting started
-
-```bash
 # 1. install
 npm install
 
@@ -95,6 +91,10 @@ store/
 
 | Key | Action |
 | --- | --- |
+<!-- metadata: 97lxr4v1in -->
+<!-- metadata: ft8sgqtupg -->
+<!-- metadata: yoknm6tov5 -->
+<!-- metadata: 260ui32yr4 -->
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
