@@ -34,6 +34,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
+# 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
 
@@ -106,16 +107,6 @@ store/
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
-<!-- metadata: ji40vtnfm2 -->
-<!-- metadata: 6xd2vw27ta -->
-<!-- metadata: g13d5huax0 -->
-<!-- metadata: 8dr4awq6p8 -->
-<!-- metadata: 37e5c2u2sr -->
-<!-- metadata: m8qh3qwdeh -->
-<!-- metadata: p1lupeeqxy -->
-<!-- metadata: xrohpn98nq -->
-<!-- metadata: 6io0lh7pw9 -->
-<!-- metadata: 0nach7ariz -->
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
