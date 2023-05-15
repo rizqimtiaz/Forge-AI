@@ -102,13 +102,13 @@ store/
 ---
 
 ## Scripts
+
+| Command | |
+| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
-<!-- metadata: 233q6h02wy -->
-<!-- metadata: wm568spbfk -->
-<!-- metadata: j83ci2ttd8 -->
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
