@@ -6,7 +6,6 @@ application:
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
-| **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
@@ -114,5 +113,15 @@ store/
 ---
 
 ## License
+<!-- metadata: 90n8jdfpey -->
+<!-- metadata: kuisq507ky -->
+<!-- metadata: gdz27m88ac -->
+<!-- metadata: ck9dxxvqml -->
+<!-- metadata: q732s63v8y -->
+<!-- metadata: apv5e5czwk -->
+<!-- metadata: 0m61tulakq -->
+<!-- metadata: ygwlsmcama -->
+<!-- metadata: lradzpdrtb -->
+<!-- metadata: hgz3tz34pv -->
 
 MIT © Forge-AI Labs
