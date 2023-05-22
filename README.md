@@ -97,16 +97,12 @@ store/
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
+| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
 
 ## Scripts
 
-<!-- metadata: qio5lt38g0 -->
-<!-- metadata: vcezv34ngf -->
-<!-- metadata: ci140c4tgx -->
-<!-- metadata: jti77acqzc -->
-<!-- metadata: j7hkqhjhtt -->
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
