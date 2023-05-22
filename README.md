@@ -102,10 +102,10 @@ store/
 ---
 
 ## Scripts
+
+| Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
-<!-- metadata: lhlbmp4pge -->
-<!-- metadata: llx5buqayc -->
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
