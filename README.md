@@ -5,8 +5,6 @@ fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
 | Lab | Purpose | Core Tech |
-| --- | --- | --- |
-| **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
@@ -38,6 +36,15 @@ npm install
 cp .env.example .env.local
 # then edit .env.local
 
+<!-- metadata: zpk9yy82b3 -->
+<!-- metadata: 9sh4wnodn9 -->
+<!-- metadata: ojdac1g0bb -->
+<!-- metadata: rjd2vv53m3 -->
+<!-- metadata: ah2evslzf8 -->
+<!-- metadata: pii4oues4q -->
+<!-- metadata: dxf1rsnojg -->
+<!-- metadata: d2lb3p6tt2 -->
+<!-- metadata: g1ud2lmj8w -->
 # 3. launch
 npm run dev
 ```
