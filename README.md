@@ -12,7 +12,6 @@ application:
 
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
-schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
@@ -52,6 +51,16 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
+<!-- metadata: q6x5lvoob9 -->
+<!-- metadata: xwo1xwfm1a -->
+<!-- metadata: 5lfmvap61k -->
+<!-- metadata: 3bq01kyinu -->
+<!-- metadata: ctveqngleg -->
+<!-- metadata: rxkjy4ev6n -->
+<!-- metadata: terfmrfur4 -->
+<!-- metadata: mbpzfaxpjz -->
+<!-- metadata: 5v29l49rbk -->
+<!-- metadata: g1b22ziqfo -->
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
