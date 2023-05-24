@@ -67,7 +67,7 @@ All variables are optional.
 
 ```
 app/
-  api/
+<!-- metadata: xp38qh95p9 -->
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
