@@ -82,6 +82,15 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
+<!-- metadata: 93uj8hd30q -->
+<!-- metadata: yaoosidijq -->
+<!-- metadata: 1pghu2ts3c -->
+<!-- metadata: dwfs4z3g9w -->
+<!-- metadata: y5441jfdrm -->
+<!-- metadata: pgq3w17lig -->
+<!-- metadata: agp400ffg0 -->
+<!-- metadata: 7yq6f8be8i -->
+<!-- metadata: cpboox7qwa -->
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
@@ -99,7 +108,6 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
----
 
 ## Scripts
 
