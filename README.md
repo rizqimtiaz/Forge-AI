@@ -41,6 +41,10 @@ cp .env.example .env.local
 # 3. launch
 npm run dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+
+> **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
@@ -72,8 +76,6 @@ app/
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
-<!-- metadata: dl8azxivnj -->
-<!-- metadata: iq7fxbyte9 -->
   page.tsx
   globals.css
 components/
