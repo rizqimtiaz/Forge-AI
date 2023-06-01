@@ -105,8 +105,6 @@ store/
 
 | Command | |
 | --- | --- |
-| `npm run dev` | Start the dev server |
-| `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
@@ -116,3 +114,10 @@ store/
 ## License
 
 MIT © Forge-AI Labs
+<!-- metadata: c4xgtpv8se -->
+<!-- metadata: jzirs5is3c -->
+<!-- metadata: 1uwet7ojsc -->
+<!-- metadata: vl249g3g80 -->
+<!-- metadata: r4ghs8949n -->
+<!-- metadata: 7ln2ieibzn -->
+<!-- metadata: ta0scoowy5 -->
