@@ -29,6 +29,12 @@ aesthetic via Tailwind CSS + Framer Motion.
 ---
 
 ## Getting started
+<!-- metadata: ih5loq84vh -->
+<!-- metadata: qwibvm9alh -->
+<!-- metadata: 49ae5wy0a9 -->
+<!-- metadata: pkfz67f8xb -->
+<!-- metadata: c0tua94y25 -->
+<!-- metadata: 7x1umfp34v -->
 
 ```bash
 # 1. install
@@ -79,7 +85,6 @@ app/
   page.tsx
   globals.css
 components/
-  navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
