@@ -61,6 +61,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
+---
+
+## File map
+
 ```
 app/
   api/
@@ -97,16 +101,6 @@ store/
 
 ---
 
-<!-- metadata: n4ezy3hm88 -->
-<!-- metadata: 2qy0y3p20a -->
-<!-- metadata: b0s8jcari0 -->
-<!-- metadata: v0j1dsezth -->
-<!-- metadata: z3zdjcv0gi -->
-<!-- metadata: 0jhnt8hie2 -->
-<!-- metadata: n612m703ms -->
-<!-- metadata: t2tqffhiv2 -->
-<!-- metadata: brkivp2skn -->
-<!-- metadata: kg48zlqf17 -->
 ## Scripts
 
 | Command | |
