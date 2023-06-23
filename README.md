@@ -46,6 +46,16 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
+<!-- metadata: 46shmerfg1 -->
+<!-- metadata: x2mza0v871 -->
+<!-- metadata: fell3s2nn6 -->
+<!-- metadata: b0og621edn -->
+<!-- metadata: u16gy5i49t -->
+<!-- metadata: 3o41lxpthy -->
+<!-- metadata: uh8f59f2tp -->
+<!-- metadata: lk4kftt2s6 -->
+<!-- metadata: n1rwf41clw -->
+<!-- metadata: g2gf12ffzc -->
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -101,7 +111,6 @@ store/
 
 ---
 
-## Scripts
 
 | Command | |
 | --- | --- |
