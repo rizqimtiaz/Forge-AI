@@ -41,6 +41,9 @@ cp .env.example .env.local
 # 3. launch
 npm run dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
@@ -95,11 +98,6 @@ store/
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
-<!-- metadata: b462bv0ab0 -->
-<!-- metadata: 43jdvsudkn -->
-<!-- metadata: 93s7uyz7do -->
-<!-- metadata: ecgnlbqg89 -->
-<!-- metadata: 8hz6nd05io -->
 
 ---
 
