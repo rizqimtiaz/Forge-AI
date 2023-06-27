@@ -100,12 +100,19 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
+<!-- metadata: wbdwdfsyyn -->
+<!-- metadata: f4szo44won -->
+<!-- metadata: jvaarzjw6u -->
+<!-- metadata: hl053r17iw -->
+<!-- metadata: atfc6plkfu -->
+<!-- metadata: i1p5d7q45m -->
+<!-- metadata: iuav6lfx66 -->
+<!-- metadata: hw244e2wux -->
+<!-- metadata: 5crcw87gbb -->
+<!-- metadata: 9wr9jg7xfa -->
 
 ## Scripts
 
-| Command | |
-| --- | --- |
-| `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
