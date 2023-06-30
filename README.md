@@ -20,9 +20,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
-<!-- metadata: oufv44n4ri -->
-<!-- metadata: bvmfa3epbc -->
-<!-- metadata: o7yswgyss0 -->
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
@@ -40,6 +37,10 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
+
+# 3. launch
+npm run dev
+```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
