@@ -33,14 +33,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ```bash
 # 1. install
 npm install
-<!-- metadata: 176abdpvpg -->
-<!-- metadata: 3x6q4r6lah -->
-<!-- metadata: 0u88kumrif -->
-<!-- metadata: 5ljzd17ndz -->
-<!-- metadata: x5rfixe7kh -->
-<!-- metadata: ukxly6bmlk -->
-<!-- metadata: 797s8e4oeo -->
-<!-- metadata: pao92iikds -->
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
@@ -96,6 +88,8 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
+
+---
 
 ## Keyboard shortcuts
 
