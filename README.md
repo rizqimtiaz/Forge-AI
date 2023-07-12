@@ -40,6 +40,8 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
+```
+
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
@@ -76,14 +78,6 @@ app/
   layout.tsx
   page.tsx
   globals.css
-<!-- metadata: exatzyaliw -->
-<!-- metadata: ovdefx98u7 -->
-<!-- metadata: kqsndmij3i -->
-<!-- metadata: kt6hvuvv5x -->
-<!-- metadata: ov4o0aqgvp -->
-<!-- metadata: fhl42cnrlf -->
-<!-- metadata: 0hohf26ozm -->
-<!-- metadata: s60abqnucp -->
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
