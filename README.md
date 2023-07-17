@@ -16,6 +16,7 @@ schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
+
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -106,8 +107,6 @@ store/
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
-<!-- metadata: p3c26parxo -->
-<!-- metadata: tn0maqpu4d -->
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
