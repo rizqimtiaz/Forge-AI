@@ -91,12 +91,19 @@ store/
 
 ---
 
-## Keyboard shortcuts
-
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
+<!-- metadata: z22d6oreho -->
+<!-- metadata: t33l75oe5g -->
+<!-- metadata: 40mrh4ku7n -->
+<!-- metadata: dnsrnqfen2 -->
+<!-- metadata: 6bkuc280yb -->
+<!-- metadata: otxbhwsys6 -->
+<!-- metadata: 7u7218gnwu -->
+<!-- metadata: hpnrltcd5p -->
+<!-- metadata: 45z66zrsnc -->
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
