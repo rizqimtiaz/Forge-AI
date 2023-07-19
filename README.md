@@ -93,9 +93,6 @@ store/
 
 ## Keyboard shortcuts
 
-| Key | Action |
-| --- | --- |
-| `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
@@ -110,6 +107,13 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+<!-- metadata: y3scs8vfmp -->
+<!-- metadata: p50jni9r46 -->
+<!-- metadata: uzyy4onlsw -->
+<!-- metadata: 5mapc6spew -->
+<!-- metadata: k8x43qw6xm -->
+<!-- metadata: b412kc0c50 -->
+<!-- metadata: 2ifxel8kys -->
 
 ---
 
