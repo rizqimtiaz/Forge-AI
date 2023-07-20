@@ -19,16 +19,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Stack
 
-<!-- metadata: 8ewnn6cvgr -->
-<!-- metadata: w6dor0qexh -->
-<!-- metadata: s6m84mqeiq -->
-<!-- metadata: qncdi3ittt -->
-<!-- metadata: 3urwdluf3m -->
-<!-- metadata: z1nfwgux0m -->
-<!-- metadata: z2t1vz9lkf -->
-<!-- metadata: v59fqtq39g -->
-<!-- metadata: nj4msxvium -->
-<!-- metadata: hf5ys7iq5o -->
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -79,6 +69,9 @@ All variables are optional.
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
+    semantic-draw/route.ts     # ControlNet + latent interpretation
+    graph-ingest/route.ts      # OCR + triple extraction
+  (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
