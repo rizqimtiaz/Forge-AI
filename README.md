@@ -33,10 +33,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ```bash
 # 1. install
 npm install
-<!-- metadata: ttbs7tjsut -->
-<!-- metadata: my9z2z8ovh -->
-<!-- metadata: 9wwlaxd5em -->
-<!-- metadata: w0mtipvx6c -->
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
@@ -73,6 +69,10 @@ All variables are optional.
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
+    semantic-draw/route.ts     # ControlNet + latent interpretation
+    graph-ingest/route.ts      # OCR + triple extraction
+  (labs)/
+    asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
