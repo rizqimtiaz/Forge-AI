@@ -39,6 +39,12 @@ cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
+<!-- metadata: 9tmog0hdmq -->
+<!-- metadata: kp45vbjuai -->
+<!-- metadata: kbj7hb1o7k -->
+<!-- metadata: ik4cw6az7p -->
+<!-- metadata: vvhox96o3f -->
+<!-- metadata: x4plerambm -->
 npm run dev
 ```
 
@@ -64,8 +70,6 @@ All variables are optional.
 ---
 
 ## File map
-
-```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
