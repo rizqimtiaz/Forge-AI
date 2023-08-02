@@ -34,6 +34,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
+# 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
 
@@ -50,7 +51,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ---
 
 ## Environment variables
-<!-- metadata: d2gnu9opl9 -->
 
 | Variable | Purpose |
 | --- | --- |
