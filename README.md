@@ -16,12 +16,6 @@ schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
-<!-- metadata: y34f2ppgqj -->
-<!-- metadata: 5bg1k8ze68 -->
-<!-- metadata: y02xzzikyo -->
-<!-- metadata: kbslwr9sxk -->
-<!-- metadata: zp5c3bj4vp -->
-<!-- metadata: 6blivq8mhg -->
 
 ## Stack
 
@@ -111,6 +105,10 @@ store/
 
 | Command | |
 | --- | --- |
+| `npm run dev` | Start the dev server |
+| `npm run build` | Production build |
+| `npm run start` | Serve the production build |
+| `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
