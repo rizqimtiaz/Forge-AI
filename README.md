@@ -24,12 +24,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
-<!-- metadata: 9juybwlqp6 -->
-<!-- metadata: vfxp8uzpnu -->
-<!-- metadata: f04qlx9xr6 -->
-<!-- metadata: pzychqcyip -->
-<!-- metadata: m27hanluyq -->
-<!-- metadata: ttd41l68aq -->
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
@@ -113,6 +107,7 @@ store/
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
+| `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
