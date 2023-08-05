@@ -44,6 +44,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
+<!-- metadata: t14kukyysz -->
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
@@ -72,8 +73,6 @@ app/
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
-    asset-ai/page.tsx          # Parametric e-commerce UI
-    chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
