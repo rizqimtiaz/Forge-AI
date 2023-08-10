@@ -77,10 +77,6 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
-<!-- metadata: 12rkchrbxx -->
-<!-- metadata: vai211ea29 -->
-<!-- metadata: 9hlcesg5n4 -->
-<!-- metadata: mhcg4jhdku -->
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
@@ -92,6 +88,8 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
+
+---
 
 ## Keyboard shortcuts
 
