@@ -29,13 +29,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ---
 
 ## Getting started
-<!-- metadata: wpxvcm7c45 -->
-<!-- metadata: r76xsvyf24 -->
-<!-- metadata: 0ubbjx0f5y -->
-<!-- metadata: wgbo9pvwvx -->
-<!-- metadata: pp7x5myca6 -->
-<!-- metadata: j7j6nj50d6 -->
-<!-- metadata: v9svfxlekh -->
 
 ```bash
 # 1. install
@@ -108,6 +101,9 @@ store/
 
 ---
 
+## Scripts
+
+| Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
