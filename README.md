@@ -34,7 +34,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
-# 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
 
@@ -68,6 +67,12 @@ All variables are optional.
 ```
 app/
   api/
+<!-- metadata: yr9wx6sksu -->
+<!-- metadata: hfaeqec2la -->
+<!-- metadata: omf8895tep -->
+<!-- metadata: xal4eblmy9 -->
+<!-- metadata: qune3qkufq -->
+<!-- metadata: ldgt0vgqsz -->
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
