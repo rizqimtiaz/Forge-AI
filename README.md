@@ -61,8 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
----
-
 ## File map
 
 ```
@@ -108,6 +106,14 @@ store/
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
+<!-- metadata: u9evt64dim -->
+<!-- metadata: 4fkxybn9uu -->
+<!-- metadata: 6ha1p6ske1 -->
+<!-- metadata: ol8ej1mz4g -->
+<!-- metadata: kfupwekutu -->
+<!-- metadata: 5492pwbmv1 -->
+<!-- metadata: 09svef3mfo -->
+<!-- metadata: tww3z6vq6s -->
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
