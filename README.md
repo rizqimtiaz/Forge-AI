@@ -56,6 +56,15 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
+<!-- metadata: tnt2nm164r -->
+<!-- metadata: bzhy2tqarq -->
+<!-- metadata: lxu7hxjzlr -->
+<!-- metadata: 1x3pvxm7y4 -->
+<!-- metadata: 05moei2he3 -->
+<!-- metadata: xi59uito6v -->
+<!-- metadata: 79k7r9einy -->
+<!-- metadata: kp906cchyu -->
+<!-- metadata: gfy3fbzwfn -->
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
@@ -104,7 +113,6 @@ store/
 ## Scripts
 
 | Command | |
-| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
