@@ -49,6 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > you can clone → `npm run dev` → demo instantly.
 
 ---
+
 ## Environment variables
 
 | Variable | Purpose |
@@ -112,11 +113,6 @@ store/
 
 ---
 
-<!-- metadata: ygromhinxf -->
-<!-- metadata: c563o0ja5c -->
-<!-- metadata: e6fnvj6xwj -->
-<!-- metadata: u1bs3xvbv9 -->
-<!-- metadata: s0fe87u291 -->
 ## License
 
 MIT © Forge-AI Labs
