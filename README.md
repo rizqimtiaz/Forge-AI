@@ -99,14 +99,18 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
----
-
-## Scripts
-
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
+<!-- metadata: sdtqofwam1 -->
+<!-- metadata: qws0byz51b -->
+<!-- metadata: kcggtuy0lo -->
+<!-- metadata: qp1c64d1jm -->
+<!-- metadata: 9n9b2jyvog -->
+<!-- metadata: iattixt73w -->
+<!-- metadata: 0l9dtebuwm -->
+<!-- metadata: angae722yo -->
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
