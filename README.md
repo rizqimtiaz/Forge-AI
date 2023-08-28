@@ -40,6 +40,16 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
+<!-- metadata: c36qz7gl3w -->
+<!-- metadata: btwpw4ql16 -->
+<!-- metadata: mdcl27gwa0 -->
+<!-- metadata: x5zj2dv3bp -->
+<!-- metadata: kfejsqmk6o -->
+<!-- metadata: zawcevfv5k -->
+<!-- metadata: 2813xc0t1j -->
+<!-- metadata: 3xua5c35l5 -->
+<!-- metadata: m0o3n2jmoq -->
+<!-- metadata: t18mn8swnm -->
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
@@ -107,7 +117,6 @@ store/
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
-| `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
