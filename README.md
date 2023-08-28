@@ -70,6 +70,15 @@ app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
+<!-- metadata: 1sh5g31yff -->
+<!-- metadata: vobwiixr9b -->
+<!-- metadata: 7dlwjkp7xc -->
+<!-- metadata: r4u7bt2m5p -->
+<!-- metadata: 5srpfumq5v -->
+<!-- metadata: nezfhxumob -->
+<!-- metadata: hvc1n22jix -->
+<!-- metadata: z9pyvyf93w -->
+<!-- metadata: hk3f5zenql -->
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
@@ -82,10 +91,6 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
-  ai-schemas.ts                # Zod schemas + inferred types
-  utils.ts                     # uuid, seeded rng, color helpers
-  svg-placeholders.ts          # procedural fallbacks
-store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
