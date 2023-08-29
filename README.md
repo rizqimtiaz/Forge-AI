@@ -56,8 +56,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
-| `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
-| `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
 All variables are optional.
 
@@ -96,6 +94,16 @@ store/
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
+<!-- metadata: bjhjopvxyb -->
+<!-- metadata: tci5jxk3ia -->
+<!-- metadata: tj5phmbgrh -->
+<!-- metadata: sfhs5izqq2 -->
+<!-- metadata: 47t8f9vl3e -->
+<!-- metadata: rje9zg35qf -->
+<!-- metadata: xdukzdrtyq -->
+<!-- metadata: ol3gz53t1i -->
+<!-- metadata: t5xkg7useg -->
+<!-- metadata: ar132k0imz -->
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
