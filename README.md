@@ -65,9 +65,6 @@ All variables are optional.
 
 ## File map
 
-```
-app/
-  api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
@@ -111,6 +108,13 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
+<!-- metadata: 69a6aolsza -->
+<!-- metadata: 30za8a4n41 -->
+<!-- metadata: xunpayw505 -->
+<!-- metadata: gnl82refsv -->
+<!-- metadata: t11g0k4unv -->
+<!-- metadata: lqr9sjd0uy -->
+<!-- metadata: ccgvjphmob -->
 ---
 
 ## License
