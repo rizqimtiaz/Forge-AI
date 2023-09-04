@@ -28,10 +28,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
-## Getting started
-
-```bash
-# 1. install
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -59,6 +55,11 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
+<!-- metadata: xwxoa0s380 -->
+<!-- metadata: 0c7jbtwygg -->
+<!-- metadata: 87z0j3w9cp -->
+<!-- metadata: uukulip5au -->
+<!-- metadata: eqmsk5chgj -->
 All variables are optional.
 
 ---
