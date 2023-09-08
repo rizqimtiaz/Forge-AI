@@ -50,6 +50,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ---
 
+## Environment variables
+
+| Variable | Purpose |
+| --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
@@ -104,11 +108,6 @@ store/
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
-<!-- metadata: nr1wtgibbd -->
-<!-- metadata: v7goxqyz6u -->
-<!-- metadata: pvu1supe86 -->
-<!-- metadata: v4opq2xvdj -->
-<!-- metadata: v6vuwdt435 -->
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
