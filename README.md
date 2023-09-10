@@ -88,6 +88,14 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
+<!-- metadata: qrijlf4x5i -->
+<!-- metadata: 8bzyvy4mns -->
+<!-- metadata: cksi71qrr6 -->
+<!-- metadata: ssmlnn2wnz -->
+<!-- metadata: 3qgtlixxkj -->
+<!-- metadata: poj0z64guk -->
+<!-- metadata: dx2n2ql66t -->
+<!-- metadata: x7dexcd6po -->
 
 ---
 
@@ -95,8 +103,6 @@ store/
 
 | Key | Action |
 | --- | --- |
-| `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
-| `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
