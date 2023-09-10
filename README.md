@@ -14,7 +14,6 @@ Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
-<!-- metadata: h008g1h3ue -->
 
 ---
 
@@ -59,6 +58,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
+
+All variables are optional.
+
+---
 
 ## File map
 
