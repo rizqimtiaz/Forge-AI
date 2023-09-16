@@ -24,6 +24,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
+- **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
+
+---
 
 ## Getting started
 
@@ -93,12 +96,6 @@ store/
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
-<!-- metadata: q6s8h1tysg -->
-<!-- metadata: 7yvuexft0o -->
-<!-- metadata: wih2c475ft -->
-<!-- metadata: u6h2iudbhx -->
-<!-- metadata: 0nob7e90nf -->
-<!-- metadata: 9yxtiryzbg -->
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
