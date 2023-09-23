@@ -48,9 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
----
-
-## Environment variables
 
 | Variable | Purpose |
 | --- | --- |
@@ -71,6 +68,15 @@ app/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
+<!-- metadata: pfrp5mytal -->
+<!-- metadata: s748nfmy7t -->
+<!-- metadata: ps9kdpvnnd -->
+<!-- metadata: slk0sgn7t1 -->
+<!-- metadata: 7gqalv60m2 -->
+<!-- metadata: vohrfnembu -->
+<!-- metadata: wdigc7oy3k -->
+<!-- metadata: zac3m4ltnr -->
+<!-- metadata: cu75gd7ci1 -->
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
