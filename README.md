@@ -6,6 +6,9 @@ application:
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
+<!-- metadata: ga33hy67cq -->
+<!-- metadata: o854bgepjz -->
+<!-- metadata: ajk2w8tick -->
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
@@ -78,8 +81,6 @@ app/
   layout.tsx
   page.tsx
   globals.css
-components/
-  navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
