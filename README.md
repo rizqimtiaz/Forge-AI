@@ -8,6 +8,8 @@ application:
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
+| **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
+
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
@@ -113,13 +115,4 @@ store/
 
 ## License
 
-<!-- metadata: 4bbwjxofvf -->
-<!-- metadata: ikgn9bfdpf -->
-<!-- metadata: lewq2liprx -->
-<!-- metadata: kp236p8ic0 -->
-<!-- metadata: 53ykdo8knu -->
-<!-- metadata: d954gwzpxb -->
-<!-- metadata: 7nu7gytz56 -->
-<!-- metadata: b0c2s5w5si -->
-<!-- metadata: akpst02y6f -->
 MIT © Forge-AI Labs
