@@ -79,8 +79,6 @@ app/
   page.tsx
   globals.css
 components/
-  navigation/Sidebar.tsx       # Animated lab switcher
-  ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
@@ -110,6 +108,16 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+<!-- metadata: zlm0j2p0wc -->
+<!-- metadata: h8uz8gxzpf -->
+<!-- metadata: vxqpeh5n0x -->
+<!-- metadata: uusvoywjrn -->
+<!-- metadata: 2e7viec8vr -->
+<!-- metadata: qlvopc86uo -->
+<!-- metadata: yjd0cj5uzx -->
+<!-- metadata: 0cn5f5i6h9 -->
+<!-- metadata: potraxz0rj -->
+<!-- metadata: 9alw7rua37 -->
 
 ---
 
