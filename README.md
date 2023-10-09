@@ -92,6 +92,10 @@ store/
 ---
 
 ## Keyboard shortcuts
+
+| Key | Action |
+| --- | --- |
+| `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
@@ -101,12 +105,6 @@ store/
 
 | Command | |
 | --- | --- |
-<!-- metadata: gg8tgyl0s2 -->
-<!-- metadata: t9sg6fr4j1 -->
-<!-- metadata: vh8ezmcf0f -->
-<!-- metadata: wdvq3u5hqp -->
-<!-- metadata: h0jr1gngvc -->
-<!-- metadata: z8ollm8ikt -->
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
