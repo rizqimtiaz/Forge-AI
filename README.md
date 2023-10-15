@@ -26,6 +26,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+---
 
 ## Getting started
 
@@ -50,16 +51,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ---
 
 ## Environment variables
-<!-- metadata: ztrl8n1gmv -->
-<!-- metadata: tqzg2adh6z -->
-<!-- metadata: hds5mb42pg -->
-<!-- metadata: 652g6tl3m9 -->
-<!-- metadata: 4s07oowz2b -->
-<!-- metadata: 6kp7n5nu5g -->
-<!-- metadata: p3wb7i78sb -->
-<!-- metadata: inl0eshb4k -->
-<!-- metadata: h7l7ytoeia -->
-<!-- metadata: 9arq9wytzg -->
 
 | Variable | Purpose |
 | --- | --- |
