@@ -93,6 +93,9 @@ store/
 
 ## Keyboard shortcuts
 
+| Key | Action |
+| --- | --- |
+| `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
@@ -109,13 +112,6 @@ store/
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
-<!-- metadata: secy9xa2j7 -->
-<!-- metadata: zpv5nn2g0s -->
-<!-- metadata: 7muqidgnuj -->
-<!-- metadata: tndzejncsb -->
-<!-- metadata: sq3uod4kso -->
-<!-- metadata: x12dm0jvbp -->
-<!-- metadata: zz41lp41js -->
 
 ## License
 
