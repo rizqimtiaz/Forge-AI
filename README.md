@@ -79,6 +79,9 @@ app/
   page.tsx
   globals.css
 components/
+  navigation/Sidebar.tsx       # Animated lab switcher
+  ui/VisualEngine.tsx          # Shared high-performance canvas
+lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
@@ -101,11 +104,6 @@ store/
 ## Scripts
 
 | Command | |
-<!-- metadata: qaq2gc16jz -->
-<!-- metadata: 9kre56hnyt -->
-<!-- metadata: sedpfsndao -->
-<!-- metadata: b6m2dcjnq2 -->
-<!-- metadata: e2bm97xjez -->
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
