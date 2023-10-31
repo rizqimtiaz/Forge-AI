@@ -15,6 +15,8 @@ Every lab is powered by a single unified Zustand store (sliced into
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
+---
+
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -24,13 +26,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
-<!-- metadata: fu0obfjoum -->
-<!-- metadata: zij62htaei -->
-<!-- metadata: 956gawvn6t -->
-<!-- metadata: etcnb3r009 -->
-<!-- metadata: xl9j608xvu -->
-<!-- metadata: 7of8pxj042 -->
-<!-- metadata: ctpmnf1odv -->
 ---
 
 ## Getting started
