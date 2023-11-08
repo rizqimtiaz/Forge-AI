@@ -8,6 +8,10 @@ application:
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
+| **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
+
+Every lab is powered by a single unified Zustand store (sliced into
+`assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
@@ -67,15 +71,6 @@ app/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
-<!-- metadata: ypao8326u2 -->
-<!-- metadata: yb02hbu12c -->
-<!-- metadata: 9zbin4qg60 -->
-<!-- metadata: 7dbla9nh9p -->
-<!-- metadata: lypox7b2eh -->
-<!-- metadata: y3wnrobol8 -->
-<!-- metadata: jdbybr0ych -->
-<!-- metadata: 8p9u4gjrgh -->
-<!-- metadata: 9uqd9hojmk -->
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
