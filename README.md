@@ -39,14 +39,6 @@ cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
-<!-- metadata: 526dlslvxs -->
-<!-- metadata: b72gm8x2ru -->
-<!-- metadata: sadkmhu7xl -->
-<!-- metadata: zjujk1eyfe -->
-<!-- metadata: aegb2vegzp -->
-<!-- metadata: wabjehvn2z -->
-<!-- metadata: mkqynzq4eg -->
-<!-- metadata: fh8wuwjgko -->
 npm run dev
 ```
 
@@ -57,6 +49,9 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > you can clone → `npm run dev` → demo instantly.
 
 ---
+
+## Environment variables
+
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
