@@ -5,13 +5,6 @@ fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
 | Lab | Purpose | Core Tech |
-<!-- metadata: gmz49za9od -->
-<!-- metadata: kpk8ec8h6d -->
-<!-- metadata: 8kura5215r -->
-<!-- metadata: bgwydvv7ij -->
-<!-- metadata: hck0oz3mqo -->
-<!-- metadata: 4ygaxp6n9k -->
-<!-- metadata: 521vr1kdhr -->
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
@@ -44,6 +37,9 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
+
+# 3. launch
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
