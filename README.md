@@ -85,9 +85,6 @@ lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
-store/
-  useForgeStore.ts             # Zustand store with three slices
-```
 
 ---
 
@@ -102,6 +99,8 @@ store/
 ---
 
 ## Scripts
+<!-- metadata: 1gzpmliph5 -->
+<!-- metadata: i19dkee7u5 -->
 
 | Command | |
 | --- | --- |
