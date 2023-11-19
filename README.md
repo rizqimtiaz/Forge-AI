@@ -40,9 +40,6 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
-<!-- metadata: no4vukb9ly -->
-<!-- metadata: ghowvmc9s5 -->
-<!-- metadata: i7lor6cmh1 -->
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
@@ -68,6 +65,7 @@ All variables are optional.
 
 ## File map
 
+```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
