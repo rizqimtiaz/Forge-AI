@@ -27,20 +27,13 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
-<!-- metadata: mpcz048ct5 -->
-<!-- metadata: rb9x9i7r6j -->
-<!-- metadata: xwm0lb8f2j -->
-<!-- metadata: hvl6z5jdgm -->
-<!-- metadata: 1kcjfcwhm1 -->
-<!-- metadata: dyxlkbfqyj -->
-<!-- metadata: nz6tv8ow8v -->
-<!-- metadata: z99zste5ar -->
 
 ## Getting started
 
 ```bash
 # 1. install
 npm install
+
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
