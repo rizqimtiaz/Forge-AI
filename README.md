@@ -26,6 +26,16 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+<!-- metadata: k3ouxnno83 -->
+<!-- metadata: x6j976sp35 -->
+<!-- metadata: rya47db6k3 -->
+<!-- metadata: g9ysgr0kui -->
+<!-- metadata: 5zdedsnl9g -->
+<!-- metadata: vkutvm6eu0 -->
+<!-- metadata: rpbia1lunq -->
+<!-- metadata: nlonc46uil -->
+<!-- metadata: mkaj6fljan -->
+<!-- metadata: 1g3itl014l -->
 ---
 
 ## Getting started
@@ -89,7 +99,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
----
 
 ## Keyboard shortcuts
 
