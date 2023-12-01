@@ -16,13 +16,6 @@ schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
-<!-- metadata: aph6hwie4p -->
-<!-- metadata: 9wh0dfx3om -->
-<!-- metadata: aw2xil167m -->
-<!-- metadata: 5oa579b0an -->
-<!-- metadata: yujmklu1yw -->
-<!-- metadata: 40uh8fc3qd -->
-<!-- metadata: t9wigk1cxb -->
 
 ## Stack
 
@@ -60,6 +53,8 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ## Environment variables
 
 | Variable | Purpose |
+| --- | --- |
+| `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
