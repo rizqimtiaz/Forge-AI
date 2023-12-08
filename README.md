@@ -42,12 +42,6 @@ cp .env.example .env.local
 npm run dev
 ```
 
-<!-- metadata: ov1vy1nugi -->
-<!-- metadata: mhzjqnbnuv -->
-<!-- metadata: mnqlrw4ape -->
-<!-- metadata: y49o3qy1h5 -->
-<!-- metadata: u422y4j1n3 -->
-<!-- metadata: 27cirvd568 -->
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
@@ -98,6 +92,8 @@ store/
 ---
 
 ## Keyboard shortcuts
+
+| Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
