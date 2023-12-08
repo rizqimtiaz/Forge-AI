@@ -2,13 +2,6 @@
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
-<!-- metadata: 8qhx3hdfu6 -->
-<!-- metadata: sipg0f49uj -->
-<!-- metadata: q90ko9s9vh -->
-<!-- metadata: 27v6l1j92o -->
-<!-- metadata: 3a40qr636m -->
-<!-- metadata: 0cjdjld95f -->
-<!-- metadata: otiouda6qf -->
 application:
 
 | Lab | Purpose | Core Tech |
@@ -26,6 +19,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Stack
 
+- **Framework** — Next.js 14 (App Router, TypeScript, React 18)
+- **State** — Zustand with three slices and selective `persist` middleware
+- **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
