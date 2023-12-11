@@ -35,10 +35,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 npm install
 
 # 2. (optional) wire up AI credentials
-cp .env.example .env.local
-# then edit .env.local
-
-# 3. launch
 npm run dev
 ```
 
@@ -73,6 +69,10 @@ app/
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
+<!-- metadata: neij1e9zsp -->
+<!-- metadata: evwmekhzys -->
+<!-- metadata: ryp5umw6ms -->
+<!-- metadata: 5ucsdv3rtz -->
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
