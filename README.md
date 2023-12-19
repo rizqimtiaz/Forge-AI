@@ -43,9 +43,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
-
-> **Zero-config by design.** Every API route has a deterministic fallback that
-> produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -99,6 +96,15 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
+<!-- metadata: kdmird1su0 -->
+<!-- metadata: knv0wdtun1 -->
+<!-- metadata: zg3lh5aifz -->
+<!-- metadata: p3ks7a7h2z -->
+<!-- metadata: 9pm50ycz3y -->
+<!-- metadata: 95veqkfvvj -->
+<!-- metadata: c2z4v3otn4 -->
+<!-- metadata: hf2aqxj6os -->
+<!-- metadata: a7d8wq21kr -->
 ---
 
 ## Scripts
