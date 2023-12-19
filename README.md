@@ -37,14 +37,16 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
-<!-- metadata: flc62906va -->
-<!-- metadata: 6z1ttalv3o -->
 
 # 3. launch
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+
+> **Zero-config by design.** Every API route has a deterministic fallback that
+> produces rich, visually-interesting output even when no API keys are set, so
+> you can clone → `npm run dev` → demo instantly.
 
 ---
 
