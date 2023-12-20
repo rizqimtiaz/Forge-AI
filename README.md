@@ -44,11 +44,20 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
-> **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
 ---
+<!-- metadata: 9icdq2yols -->
+<!-- metadata: cp3xj2e8vq -->
+<!-- metadata: xkbxs7wim5 -->
+<!-- metadata: 5l47bbl7ys -->
+<!-- metadata: 8um3axuqn4 -->
+<!-- metadata: hxp3dhc589 -->
+<!-- metadata: uo6kltlfvs -->
+<!-- metadata: cyhh40ximc -->
+<!-- metadata: vrc0jdwmq9 -->
+<!-- metadata: 4fgonzyoz3 -->
 
 ## Environment variables
 
