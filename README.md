@@ -23,8 +23,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
-- **Validation** — Zod end-to-end (request, response, and internal contracts)
-- **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
 
@@ -84,6 +82,15 @@ components/
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
+<!-- metadata: ozcp4i5lit -->
+<!-- metadata: d5541ohqgd -->
+<!-- metadata: 72bd4umzw1 -->
+<!-- metadata: 8hwgczwubi -->
+<!-- metadata: mon05khvxy -->
+<!-- metadata: 0s7be1ltyr -->
+<!-- metadata: k2986nmb2n -->
+<!-- metadata: r55o7x3ked -->
+<!-- metadata: h44r283mth -->
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
