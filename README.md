@@ -87,6 +87,12 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
+<!-- metadata: 8hpvckaieg -->
+<!-- metadata: qx6814ze0a -->
+<!-- metadata: zsjzscpqg3 -->
+<!-- metadata: tczi5xjp4a -->
+<!-- metadata: tkvx3p4m3o -->
+<!-- metadata: vxcvw6sh1r -->
 ```
 
 ---
@@ -104,8 +110,6 @@ store/
 ## Scripts
 
 | Command | |
-| --- | --- |
-| `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
