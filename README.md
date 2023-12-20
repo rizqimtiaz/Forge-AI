@@ -32,6 +32,12 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
+<!-- metadata: wxp50q5gmz -->
+<!-- metadata: lm5mm6816o -->
+<!-- metadata: 22wkckfe4b -->
+<!-- metadata: f67j4ri91z -->
+<!-- metadata: wkm1okn9r3 -->
+<!-- metadata: jhr4wqejdw -->
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -90,7 +96,6 @@ store/
 ```
 
 ---
-
 ## Keyboard shortcuts
 
 | Key | Action |
