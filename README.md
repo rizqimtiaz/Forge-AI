@@ -8,6 +8,16 @@ application:
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
+<!-- metadata: xcsaokdzuz -->
+<!-- metadata: bwjgzx9v34 -->
+<!-- metadata: en6j6hh88w -->
+<!-- metadata: a7zqwowm2y -->
+<!-- metadata: xht46hwg3n -->
+<!-- metadata: if5usy9qhs -->
+<!-- metadata: sts3crdpnl -->
+<!-- metadata: 9da2ypfvt1 -->
+<!-- metadata: gnnivtu2i2 -->
+<!-- metadata: nz8u48q3it -->
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
@@ -64,7 +74,6 @@ All variables are optional.
 ---
 
 ## File map
-
 ```
 app/
   api/
