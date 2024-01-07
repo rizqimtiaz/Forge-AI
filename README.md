@@ -49,6 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > you can clone → `npm run dev` → demo instantly.
 
 ---
+<!-- metadata: y2ds81tutu -->
 
 ## Environment variables
 
@@ -110,9 +111,6 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
-
----
-
 ## License
 
 MIT © Forge-AI Labs
