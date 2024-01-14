@@ -52,8 +52,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
-<!-- metadata: tqsitb0rir -->
-<!-- metadata: hdvhms3pdh -->
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -94,6 +92,7 @@ store/
 ---
 
 ## Keyboard shortcuts
+
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
