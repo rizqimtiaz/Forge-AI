@@ -30,9 +30,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Getting started
 
-```bash
-# 1. install
-npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
@@ -99,6 +96,11 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
+<!-- metadata: gqlk3sgtsp -->
+<!-- metadata: peesgbyfwg -->
+<!-- metadata: xzsq89eqsw -->
+<!-- metadata: p14vn1udsu -->
+<!-- metadata: uirhh1k37d -->
 ---
 
 ## Scripts
