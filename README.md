@@ -16,13 +16,6 @@ schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
-<!-- metadata: drdim12klp -->
-<!-- metadata: q5t93l8rr8 -->
-<!-- metadata: ita8n516cr -->
-<!-- metadata: 2x1b3ue3xj -->
-<!-- metadata: 1stsjlbpfb -->
-<!-- metadata: w3cfuv0i9s -->
-<!-- metadata: bvp91spndo -->
 
 ## Stack
 
@@ -95,6 +88,8 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
+
+---
 
 ## Keyboard shortcuts
 
