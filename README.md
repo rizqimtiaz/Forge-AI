@@ -26,6 +26,8 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+---
+
 ## Getting started
 
 ```bash
@@ -86,15 +88,6 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
-<!-- metadata: 6oad94aimr -->
-<!-- metadata: qyofydfcoq -->
-<!-- metadata: q5eyrvabkq -->
-<!-- metadata: njnuoahg50 -->
-<!-- metadata: 7hihw5n5c2 -->
-<!-- metadata: qd4e0cqfks -->
-<!-- metadata: 1axr5mgxt3 -->
-<!-- metadata: h340uulyq1 -->
-<!-- metadata: aexpspspxc -->
 
 ---
 
