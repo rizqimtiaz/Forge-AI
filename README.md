@@ -40,6 +40,10 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
+<!-- metadata: d24grk47as -->
+<!-- metadata: bcbil1wcto -->
+<!-- metadata: 2n2zlfcxmj -->
+<!-- metadata: 9gtdmpysbg -->
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
@@ -60,8 +64,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
 All variables are optional.
-
----
 
 ## File map
 
