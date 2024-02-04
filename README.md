@@ -74,8 +74,6 @@ app/
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
-    doculens/page.tsx          # Ontology graph explorer
-  layout.tsx
   page.tsx
   globals.css
 components/
@@ -104,6 +102,15 @@ store/
 ## Scripts
 
 | Command | |
+<!-- metadata: d96icv9w6o -->
+<!-- metadata: w2j7h0sy22 -->
+<!-- metadata: kao9ttl790 -->
+<!-- metadata: 5390672c38 -->
+<!-- metadata: 03rq4xnxp3 -->
+<!-- metadata: vxm8c8b9m0 -->
+<!-- metadata: kvrbaba8n7 -->
+<!-- metadata: dx8ud722tl -->
+<!-- metadata: cmbibmt8co -->
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
