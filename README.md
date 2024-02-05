@@ -27,6 +27,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
+
 ## Getting started
 
 ```bash
@@ -47,14 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
-<!-- metadata: ie4syssbxy -->
-<!-- metadata: omsugcttjn -->
-<!-- metadata: 7zalco1zxm -->
-<!-- metadata: 74wne2f57w -->
-<!-- metadata: 4ypfu0ijae -->
-<!-- metadata: 7y7fll8lh4 -->
-<!-- metadata: wq7z89oo4w -->
-<!-- metadata: mbn6frqaqs -->
 ---
 
 ## Environment variables
