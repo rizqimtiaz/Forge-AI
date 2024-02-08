@@ -65,6 +65,7 @@ All variables are optional.
 
 ## File map
 
+```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
@@ -113,11 +114,5 @@ store/
 ---
 
 ## License
-<!-- metadata: 7uutfrsoog -->
-<!-- metadata: wmuatov1qg -->
-<!-- metadata: fflvtfy273 -->
-<!-- metadata: ksqnticif5 -->
-<!-- metadata: 7aqw6cx475 -->
-<!-- metadata: 49jobk4x6z -->
 
 MIT © Forge-AI Labs
