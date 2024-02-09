@@ -45,6 +45,12 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
+<!-- metadata: 70bnc2uwe8 -->
+<!-- metadata: z54u2cqhty -->
+<!-- metadata: 1lmp9splc2 -->
+<!-- metadata: 8llmkqn4yt -->
+<!-- metadata: cpipkfybwk -->
+<!-- metadata: 7oz3yhi3gg -->
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
@@ -54,8 +60,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 | Variable | Purpose |
 | --- | --- |
-| `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
-| `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
