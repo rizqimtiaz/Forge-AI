@@ -8,6 +8,15 @@ application:
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
+<!-- metadata: 8lzzbqg9mv -->
+<!-- metadata: ouypkcosbl -->
+<!-- metadata: 1tikkudwgm -->
+<!-- metadata: hnsqgyws5v -->
+<!-- metadata: wi7i8tjwah -->
+<!-- metadata: 2gw5faeaot -->
+<!-- metadata: xhvrfy31cs -->
+<!-- metadata: m3v5kr2qlt -->
+<!-- metadata: rw7h0dgvar -->
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
@@ -41,10 +50,6 @@ cp .env.example .env.local
 # 3. launch
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) and click into any lab.
-
-> **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
