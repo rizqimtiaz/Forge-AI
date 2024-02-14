@@ -42,16 +42,15 @@ cp .env.example .env.local
 npm run dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+
+> **Zero-config by design.** Every API route has a deterministic fallback that
+> produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
 ---
 
 ## Environment variables
-<!-- metadata: ssn72k583r -->
-<!-- metadata: d21nu0mifl -->
-<!-- metadata: 4y66ccr8sw -->
-<!-- metadata: 2b14dqzszh -->
-<!-- metadata: 79325z89en -->
 
 | Variable | Purpose |
 | --- | --- |
