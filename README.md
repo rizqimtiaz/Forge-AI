@@ -85,7 +85,6 @@ lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
-store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
@@ -106,6 +105,8 @@ store/
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
+<!-- metadata: 02eqhv2ox4 -->
+<!-- metadata: xdchy2gykw -->
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
