@@ -19,15 +19,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Stack
 
-<!-- metadata: pyx2w8v0p9 -->
-<!-- metadata: 1d9zrin9hk -->
-<!-- metadata: n1qvfthjg3 -->
-<!-- metadata: evctnibcun -->
-<!-- metadata: a8vdp0g9u8 -->
-<!-- metadata: iq75zobobb -->
-<!-- metadata: q99uav5oqb -->
-<!-- metadata: wbwmgee168 -->
-<!-- metadata: h3vw954s3r -->
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -44,6 +35,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 npm install
 
 # 2. (optional) wire up AI credentials
+cp .env.example .env.local
+# then edit .env.local
+
+# 3. launch
 npm run dev
 ```
 
