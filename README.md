@@ -30,6 +30,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Getting started
 
+```bash
 # 1. install
 npm install
 
@@ -64,13 +65,6 @@ All variables are optional.
 
 ## File map
 
-<!-- metadata: n4jm5haymh -->
-<!-- metadata: m84j1oidst -->
-<!-- metadata: fcphlh5huw -->
-<!-- metadata: wx5tqvpjdi -->
-<!-- metadata: 0blfggpckj -->
-<!-- metadata: hhrmoa6dwg -->
-<!-- metadata: wijpertuxp -->
 ```
 app/
   api/
