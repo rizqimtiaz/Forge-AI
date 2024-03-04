@@ -26,6 +26,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+---
+
+## Getting started
 
 ```bash
 # 1. install
@@ -88,10 +91,6 @@ store/
 
 ---
 
-<!-- metadata: 3k9wmyrqz0 -->
-<!-- metadata: gd8oyc6wz1 -->
-<!-- metadata: a0g0jqplmw -->
-<!-- metadata: 96wo3qruof -->
 ## Keyboard shortcuts
 
 | Key | Action |
