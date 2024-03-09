@@ -93,15 +93,14 @@ store/
 
 ## Keyboard shortcuts
 
+| Key | Action |
+| --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
 
-<!-- metadata: 2aq8gs0sqe -->
-<!-- metadata: zwk64mey2f -->
-<!-- metadata: zqz5q0zrvw -->
 ## Scripts
 
 | Command | |
