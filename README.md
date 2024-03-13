@@ -34,6 +34,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
+# 2. (optional) wire up AI credentials
+cp .env.example .env.local
+# then edit .env.local
 
 # 3. launch
 npm run dev
@@ -87,10 +90,6 @@ store/
 ```
 
 ---
-<!-- metadata: yowyrmqzyy -->
-<!-- metadata: knp87ggob2 -->
-<!-- metadata: gd6jcrrnuo -->
-<!-- metadata: cr1wmjn6e6 -->
 
 ## Keyboard shortcuts
 
