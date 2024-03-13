@@ -1,4 +1,7 @@
 # Forge-AI · Three Labs, One Intelligence
+<!-- metadata: v6qszq3qpj -->
+<!-- metadata: 0jkyqpbise -->
+<!-- metadata: uyjhjnseuh -->
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
@@ -68,9 +71,6 @@ All variables are optional.
 ```
 app/
   api/
-    asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-    semantic-draw/route.ts     # ControlNet + latent interpretation
-    graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
