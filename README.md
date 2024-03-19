@@ -68,6 +68,8 @@ All variables are optional.
 ```
 app/
   api/
+    asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
+    semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
@@ -77,14 +79,6 @@ app/
   page.tsx
   globals.css
 components/
-<!-- metadata: vvrkh9sjhs -->
-<!-- metadata: sv9odgey6g -->
-<!-- metadata: ngux57r3ny -->
-<!-- metadata: 3i39ozw23t -->
-<!-- metadata: sevn8xprg0 -->
-<!-- metadata: px261tryaw -->
-<!-- metadata: y8gnhsvd7n -->
-<!-- metadata: 511m6i879f -->
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
