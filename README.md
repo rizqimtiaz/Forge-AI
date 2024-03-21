@@ -26,12 +26,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
-<!-- metadata: rj73ilen19 -->
-<!-- metadata: qvgbaglo4e -->
-<!-- metadata: 97ccrfnznr -->
-<!-- metadata: a7l37sg3b1 -->
-<!-- metadata: m5h01o2w0d -->
-<!-- metadata: w3zued9oa5 -->
 ---
 
 ## Getting started
@@ -51,6 +45,8 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
+> produces rich, visually-interesting output even when no API keys are set, so
+> you can clone → `npm run dev` → demo instantly.
 
 ---
 
