@@ -41,6 +41,10 @@ cp .env.example .env.local
 # 3. launch
 npm run dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+
+> **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
@@ -51,8 +55,6 @@ npm run dev
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
-<!-- metadata: bvm6u84m90 -->
-<!-- metadata: m0nmspcfxy -->
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
