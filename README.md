@@ -89,6 +89,8 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
+---
+
 ## Keyboard shortcuts
 
 | Key | Action |
@@ -99,8 +101,6 @@ store/
 
 ---
 
-<!-- metadata: 5lof6b55pn -->
-<!-- metadata: 4wrzhl7x1k -->
 ## Scripts
 
 | Command | |
