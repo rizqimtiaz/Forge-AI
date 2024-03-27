@@ -8,6 +8,14 @@ application:
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
+<!-- metadata: tbbnoyamwj -->
+<!-- metadata: 8r37tqb40t -->
+<!-- metadata: e9z3bn5hje -->
+<!-- metadata: p2qxziq13c -->
+<!-- metadata: riwaz08116 -->
+<!-- metadata: 3w5hu1m3rd -->
+<!-- metadata: axt8zrp9qy -->
+<!-- metadata: kbkek34mbl -->
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
@@ -17,9 +25,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
-## Stack
-
-- **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
