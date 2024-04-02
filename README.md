@@ -32,6 +32,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
+<!-- metadata: 936aam9h75 -->
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -107,9 +108,6 @@ store/
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
-| `npm run start` | Serve the production build |
-| `npm run lint` | ESLint (Next.js core-web-vitals) |
-| `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
 
