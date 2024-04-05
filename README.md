@@ -28,6 +28,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
+## Getting started
 
 ```bash
 # 1. install
@@ -63,9 +64,6 @@ All variables are optional.
 ---
 
 ## File map
-<!-- metadata: jrvb7cnv72 -->
-<!-- metadata: m9egnxrsty -->
-<!-- metadata: 7gckkvuyx7 -->
 
 ```
 app/
