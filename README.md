@@ -77,12 +77,6 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
-<!-- metadata: npptvttz73 -->
-<!-- metadata: t2ohj7kut6 -->
-<!-- metadata: hzmejc8znc -->
-<!-- metadata: pav6g81ncc -->
-<!-- metadata: rirm40sszq -->
-<!-- metadata: cl67jcnpbu -->
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
@@ -111,6 +105,10 @@ store/
 
 | Command | |
 | --- | --- |
+| `npm run dev` | Start the dev server |
+| `npm run build` | Production build |
+| `npm run start` | Serve the production build |
+| `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
