@@ -62,9 +62,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 All variables are optional.
 
 ---
-
-## File map
-
 ```
 app/
   api/
@@ -79,6 +76,9 @@ app/
   page.tsx
   globals.css
 components/
+<!-- metadata: r6top3m2q8 -->
+<!-- metadata: jqnx05flfk -->
+<!-- metadata: nv3bvkzqif -->
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
