@@ -59,6 +59,9 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
+<!-- metadata: 5jv2z2r7uu -->
+<!-- metadata: awwj590cyl -->
+<!-- metadata: 31xg4el0f7 -->
 All variables are optional.
 
 ---
@@ -106,9 +109,6 @@ store/
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
-| `npm run build` | Production build |
-| `npm run start` | Serve the production build |
-| `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
