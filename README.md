@@ -94,12 +94,13 @@ store/
 ## Keyboard shortcuts
 
 | Key | Action |
+<!-- metadata: 0zp5ea0ve0 -->
+<!-- metadata: w250onkn9k -->
+<!-- metadata: gfjybuomj9 -->
+<!-- metadata: zs8tcz24qa -->
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
-| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
-
----
 
 ## Scripts
 
