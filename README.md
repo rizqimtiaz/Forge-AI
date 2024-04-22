@@ -63,17 +63,14 @@ All variables are optional.
 
 ---
 
-<!-- metadata: ufqazufsk5 -->
-<!-- metadata: rl1pzdirby -->
-<!-- metadata: n3ggp4o3r7 -->
-<!-- metadata: 62l7dof0dv -->
-<!-- metadata: uvph7jgti9 -->
 ## File map
 
 ```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
+    semantic-draw/route.ts     # ControlNet + latent interpretation
+    graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
