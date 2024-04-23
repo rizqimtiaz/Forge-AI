@@ -61,11 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
-<!-- metadata: 7qcmdqp2eh -->
-<!-- metadata: 4db0wcdn0z -->
-<!-- metadata: fg2yjyr1t3 -->
-<!-- metadata: dcjdnzlcbw -->
-<!-- metadata: qj0r1cva5f -->
 ---
 
 ## File map
@@ -94,6 +89,9 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
+---
+
+## Keyboard shortcuts
 
 | Key | Action |
 | --- | --- |
