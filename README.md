@@ -30,10 +30,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Getting started
 
-```bash
-# 1. install
-npm install
-
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
@@ -54,6 +50,15 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 | Variable | Purpose |
 | --- | --- |
+<!-- metadata: 5a1aehwqqe -->
+<!-- metadata: syspek0wb9 -->
+<!-- metadata: 98skx6ntvq -->
+<!-- metadata: vp14kx121c -->
+<!-- metadata: y6qw510rtq -->
+<!-- metadata: jjx52v6v1o -->
+<!-- metadata: ialqnccsiq -->
+<!-- metadata: kqsg3vvmy4 -->
+<!-- metadata: rawf0bbnh2 -->
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
