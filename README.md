@@ -12,6 +12,7 @@ application:
 
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
+schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
@@ -80,16 +81,6 @@ app/
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
-<!-- metadata: gow5t4t9rm -->
-<!-- metadata: cp8plqp9vj -->
-<!-- metadata: 56qwdswh6w -->
-<!-- metadata: t487zzjm1s -->
-<!-- metadata: 8ber6czixo -->
-<!-- metadata: uxskqwxue7 -->
-<!-- metadata: k5x56i93f2 -->
-<!-- metadata: oxk4u5q54f -->
-<!-- metadata: sx3u5hymg6 -->
-<!-- metadata: nxq4r064mh -->
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
