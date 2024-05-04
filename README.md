@@ -92,8 +92,6 @@ store/
 ---
 
 ## Keyboard shortcuts
-
-| Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
@@ -112,6 +110,14 @@ store/
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
+<!-- metadata: wo189iyfo1 -->
+<!-- metadata: 03scysnn82 -->
+<!-- metadata: rktgh8aaq3 -->
+<!-- metadata: wicwwvosyi -->
+<!-- metadata: 9gwbz1240t -->
+<!-- metadata: mo4b226fux -->
+<!-- metadata: ddp9gv9jhk -->
+<!-- metadata: j5ftprdl3p -->
 
 ## License
 
