@@ -78,9 +78,6 @@ app/
   layout.tsx
   page.tsx
   globals.css
-<!-- metadata: 2px458pro1 -->
-<!-- metadata: 1lscibu5b4 -->
-<!-- metadata: j5yxplmi2r -->
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
@@ -106,6 +103,8 @@ store/
 
 ## Scripts
 
+| Command | |
+| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
