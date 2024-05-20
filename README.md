@@ -49,15 +49,21 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > you can clone → `npm run dev` → demo instantly.
 
 ---
-
-## Environment variables
-
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
+<!-- metadata: mklllsnmtd -->
+<!-- metadata: qsub2p2tcn -->
+<!-- metadata: 9ykc9g8aoz -->
+<!-- metadata: sdmttsosg4 -->
+<!-- metadata: ezax9kmq84 -->
+<!-- metadata: 3c49n835lp -->
+<!-- metadata: 4e2z0nw519 -->
+<!-- metadata: 8e006i5rts -->
+<!-- metadata: qw5gm71vjt -->
 
 All variables are optional.
 
