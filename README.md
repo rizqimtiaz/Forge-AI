@@ -2,6 +2,13 @@
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
+<!-- metadata: l83yy6rcsx -->
+<!-- metadata: bibrq7udzh -->
+<!-- metadata: z2hokgtihl -->
+<!-- metadata: nbjjbfocwm -->
+<!-- metadata: 7dnnkbdu5h -->
+<!-- metadata: 4x9komi1lj -->
+<!-- metadata: v3ttq1xnyg -->
 application:
 
 | Lab | Purpose | Core Tech |
@@ -104,7 +111,6 @@ store/
 ## Scripts
 
 | Command | |
-| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
