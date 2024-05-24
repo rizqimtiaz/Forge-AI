@@ -64,15 +64,6 @@ All variables are optional.
 ---
 
 ## File map
-<!-- metadata: 87c40tjki4 -->
-<!-- metadata: ey7oj7pn24 -->
-<!-- metadata: ppv7iqw7er -->
-<!-- metadata: m84o67oxoi -->
-<!-- metadata: nyqadb0p7u -->
-<!-- metadata: acn2br37qf -->
-<!-- metadata: 9icg3v909m -->
-<!-- metadata: 3dmrfpxuc3 -->
-<!-- metadata: vtjuelnqda -->
 
 ```
 app/
@@ -83,6 +74,7 @@ app/
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
+    doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
   globals.css
