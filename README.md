@@ -27,14 +27,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
-<!-- metadata: 6j4upj2jio -->
-<!-- metadata: a9ma5jxqqg -->
-<!-- metadata: iowaxwcyce -->
-<!-- metadata: nqj1d6iedk -->
-<!-- metadata: bcn9bhlg6v -->
-<!-- metadata: ewsy38oi9j -->
-<!-- metadata: vdj1dimy54 -->
-<!-- metadata: tp2xlyc4ob -->
 
 ## Getting started
 
@@ -104,6 +96,8 @@ store/
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
+| `\` | Collapse / expand the sidebar |
+| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
 
