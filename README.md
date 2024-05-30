@@ -15,6 +15,10 @@ Every lab is powered by a single unified Zustand store (sliced into
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
+---
+
+## Stack
+
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -107,7 +111,6 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
-<!-- metadata: hzv3x7dno5 -->
 ---
 
 ## License
