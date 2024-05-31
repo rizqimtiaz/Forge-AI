@@ -13,11 +13,6 @@ application:
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
-<!-- metadata: ygdc5wz0cj -->
-<!-- metadata: dwnldnyum0 -->
-<!-- metadata: 4wki6xpfbx -->
-<!-- metadata: ex9u39amyz -->
-<!-- metadata: gjd88ejdra -->
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
@@ -101,6 +96,8 @@ store/
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
+| `\` | Collapse / expand the sidebar |
+| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
 
