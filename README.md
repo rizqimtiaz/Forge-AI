@@ -1,6 +1,15 @@
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
+<!-- metadata: 5gaysueu8p -->
+<!-- metadata: 8aoznn0uki -->
+<!-- metadata: 2po7onh5eg -->
+<!-- metadata: gcqzd3g156 -->
+<!-- metadata: i5zz1esxs2 -->
+<!-- metadata: w3qd6d8zxh -->
+<!-- metadata: vxzm44oltg -->
+<!-- metadata: 1zz5yaggrx -->
+<!-- metadata: uhkbojc110 -->
 fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
@@ -14,7 +23,6 @@ Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
-
 ---
 
 ## Stack
