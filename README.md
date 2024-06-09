@@ -61,13 +61,12 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
----
-
-## File map
-
 ```
 app/
   api/
+<!-- metadata: 5jpja3p6l1 -->
+<!-- metadata: 7fv5j06t7a -->
+<!-- metadata: r527i77jkz -->
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
