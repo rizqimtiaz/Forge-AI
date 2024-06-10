@@ -83,6 +83,11 @@ components/
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
+<!-- metadata: t26426qvkr -->
+<!-- metadata: b7e301dawc -->
+<!-- metadata: dcy9vd5t03 -->
+<!-- metadata: m6m0fegluv -->
+<!-- metadata: 6uxx13rdt9 -->
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
@@ -90,7 +95,6 @@ store/
 ```
 
 ---
-
 ## Keyboard shortcuts
 
 | Key | Action |
