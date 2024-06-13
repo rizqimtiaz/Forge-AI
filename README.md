@@ -75,9 +75,6 @@ app/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
-  layout.tsx
-  page.tsx
-  globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
@@ -113,6 +110,11 @@ store/
 
 ---
 
+<!-- metadata: uub13qgfwn -->
+<!-- metadata: p6k4edzt7j -->
+<!-- metadata: 5gbb2l7ilu -->
+<!-- metadata: 7qsuv1auo2 -->
+<!-- metadata: mpvrrycdgr -->
 ## License
 
 MIT © Forge-AI Labs
