@@ -15,14 +15,6 @@ Every lab is powered by a single unified Zustand store (sliced into
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
-<!-- metadata: m0vmlp9ws7 -->
-<!-- metadata: 633xhvu5m6 -->
-<!-- metadata: 4zivyz8pzs -->
-<!-- metadata: j2130bko4p -->
-<!-- metadata: gej2qwn52z -->
-<!-- metadata: 8n1avwazov -->
-<!-- metadata: hqe24bfayb -->
-<!-- metadata: bznrj64k35 -->
 ---
 
 ## Stack
@@ -110,6 +102,10 @@ store/
 ---
 
 ## Scripts
+
+| Command | |
+| --- | --- |
+| `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
