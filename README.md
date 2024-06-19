@@ -36,6 +36,7 @@ npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
+# then edit .env.local
 
 # 3. launch
 npm run dev
@@ -69,12 +70,6 @@ app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
-<!-- metadata: oi00sw9mg7 -->
-<!-- metadata: aoi84kgc05 -->
-<!-- metadata: ows1m3j6sy -->
-<!-- metadata: whlxagl6ak -->
-<!-- metadata: wjz98aqt8r -->
-<!-- metadata: cw748qiet1 -->
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
