@@ -1,11 +1,6 @@
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
-<!-- metadata: 6gdcp8rvd0 -->
-<!-- metadata: ghjan2jvs1 -->
-<!-- metadata: jou8m6bwwe -->
-<!-- metadata: xzukp555ro -->
-<!-- metadata: 4dc4eqob0a -->
 fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
@@ -42,6 +37,7 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
+
 # 3. launch
 npm run dev
 ```
