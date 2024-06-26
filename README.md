@@ -53,14 +53,12 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ## Environment variables
 
 | Variable | Purpose |
+| --- | --- |
+| `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
+| `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
-<!-- metadata: ojjh26e4b9 -->
-<!-- metadata: gbtnkr3srk -->
-<!-- metadata: bjryvoe0zs -->
-<!-- metadata: smafepb5g6 -->
-<!-- metadata: 02olwruje0 -->
 All variables are optional.
 
 ---
