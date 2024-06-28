@@ -25,15 +25,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
-<!-- metadata: jiw8oiafjk -->
-<!-- metadata: vto1yxt16z -->
-<!-- metadata: 99bsnpj5gw -->
-<!-- metadata: ktavyq8gdq -->
-<!-- metadata: 6hrkf86whc -->
-<!-- metadata: b3cu9j4cfu -->
-<!-- metadata: mkdxtef57d -->
-<!-- metadata: d18mkp6ypg -->
-<!-- metadata: pwmxvsdh05 -->
 
 ---
 
@@ -82,6 +73,7 @@ app/
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
+    chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
