@@ -30,6 +30,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Getting started
 
+```bash
+# 1. install
+npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
@@ -66,16 +69,6 @@ All variables are optional.
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-<!-- metadata: f0y9j5trui -->
-<!-- metadata: mh8tyb8h56 -->
-<!-- metadata: ym7ngtx5qy -->
-<!-- metadata: 06774vgfty -->
-<!-- metadata: vm3jndt7bl -->
-<!-- metadata: nff45wvwrv -->
-<!-- metadata: tpfcn66d1d -->
-<!-- metadata: ah1uqf1zx6 -->
-<!-- metadata: i88a79ahx4 -->
-<!-- metadata: c0aivb5ft8 -->
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
