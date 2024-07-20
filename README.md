@@ -49,6 +49,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > you can clone → `npm run dev` → demo instantly.
 
 ---
+
+## Environment variables
+
+| Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
@@ -110,11 +114,5 @@ store/
 ---
 
 ## License
-<!-- metadata: v2fecibdlw -->
-<!-- metadata: s7sr6bukb4 -->
-<!-- metadata: pv8rp80uo3 -->
-<!-- metadata: f6lvkt0h18 -->
-<!-- metadata: c5myqoe0c4 -->
-<!-- metadata: 5z77jova3m -->
 
 MIT © Forge-AI Labs
