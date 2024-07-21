@@ -23,8 +23,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
-- **Validation** — Zod end-to-end (request, response, and internal contracts)
-- **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
 
@@ -50,6 +48,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ---
 
+<!-- metadata: r188sjnrb8 -->
+<!-- metadata: lvjty4g6kg -->
+<!-- metadata: a5g7oz8lid -->
+<!-- metadata: 4go4weoofm -->
 ## Environment variables
 
 | Variable | Purpose |
