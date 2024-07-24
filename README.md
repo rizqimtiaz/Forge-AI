@@ -43,6 +43,9 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+
+> **Zero-config by design.** Every API route has a deterministic fallback that
+> produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -108,13 +111,6 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
-<!-- metadata: ogg6ml3b8m -->
-<!-- metadata: c7fv933g1j -->
-<!-- metadata: qzr4bphd1r -->
-<!-- metadata: nrpi7uw75f -->
-<!-- metadata: 12zhdspg4h -->
-<!-- metadata: ejh7e8ph7x -->
-<!-- metadata: 0klzd91rcy -->
 ---
 
 ## License
