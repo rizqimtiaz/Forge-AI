@@ -26,6 +26,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+---
+
+## Getting started
+
 ```bash
 # 1. install
 npm install
@@ -85,8 +89,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
-<!-- metadata: txnfsj0x2q -->
-<!-- metadata: 2yonsb9wmy -->
 ---
 
 ## Keyboard shortcuts
