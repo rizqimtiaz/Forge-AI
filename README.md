@@ -76,6 +76,8 @@ app/
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
+  page.tsx
+  globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
@@ -87,13 +89,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
-<!-- metadata: kech54y0fn -->
-<!-- metadata: dzagz2lw3t -->
-<!-- metadata: 09bcry31t1 -->
-<!-- metadata: ftcwaev0zl -->
-<!-- metadata: qylba197j4 -->
-<!-- metadata: ss4k0q2hck -->
-<!-- metadata: dkmiweyjy5 -->
 ---
 
 ## Keyboard shortcuts
