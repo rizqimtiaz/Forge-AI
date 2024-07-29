@@ -37,6 +37,9 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
+
+# 3. launch
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
@@ -110,14 +113,6 @@ store/
 
 ---
 
-<!-- metadata: cut3yr1s1l -->
-<!-- metadata: u2fz5g4mpu -->
-<!-- metadata: 15i5u7760u -->
-<!-- metadata: 6h4rbfzp0m -->
-<!-- metadata: 4ctq5j7uf6 -->
-<!-- metadata: b65ja8qa4m -->
-<!-- metadata: 4nglzlgyyx -->
-<!-- metadata: dc8sri4c6u -->
 ## License
 
 MIT © Forge-AI Labs
