@@ -1,12 +1,3 @@
-<!-- metadata: qvfcmr7zs6 -->
-<!-- metadata: f03t60o6n9 -->
-<!-- metadata: y5r8tkl8x1 -->
-<!-- metadata: y1ixwl6tf2 -->
-<!-- metadata: 0evkfqkci5 -->
-<!-- metadata: d6mmbgdlnj -->
-<!-- metadata: xs4s470uaq -->
-<!-- metadata: n1dcaj0wv6 -->
-<!-- metadata: iawhahwhwz -->
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
@@ -84,6 +75,8 @@ app/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
+  layout.tsx
+  page.tsx
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
