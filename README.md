@@ -1,3 +1,4 @@
+<!-- metadata: bmctsyonzy -->
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
@@ -103,7 +104,6 @@ store/
 
 ## Scripts
 
-| Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
