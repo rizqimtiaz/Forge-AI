@@ -2,7 +2,6 @@
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
-application:
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
@@ -62,6 +61,9 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 All variables are optional.
 
 ---
+<!-- metadata: 9iic61zhym -->
+<!-- metadata: s5r1fka5og -->
+<!-- metadata: bdwfyw9iln -->
 
 ## File map
 
