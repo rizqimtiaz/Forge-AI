@@ -92,8 +92,11 @@ store/
 ---
 
 ## Keyboard shortcuts
-
 | Key | Action |
+<!-- metadata: aip7ibpg5i -->
+<!-- metadata: bkydfquebn -->
+<!-- metadata: g5bx2r2vfn -->
+<!-- metadata: 5cwraby034 -->
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
