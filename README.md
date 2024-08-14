@@ -80,14 +80,6 @@ app/
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
-<!-- metadata: 2rspbm98el -->
-<!-- metadata: x0260s9xy3 -->
-<!-- metadata: pypyuy0hq8 -->
-<!-- metadata: k31717gg24 -->
-<!-- metadata: vqkeq86vly -->
-<!-- metadata: xdddq8dzat -->
-<!-- metadata: 9xeufown35 -->
-<!-- metadata: bfbuwd16dh -->
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
@@ -117,6 +109,7 @@ store/
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
+| `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
 
