@@ -58,6 +58,13 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
+<!-- metadata: 4hv7edzpmd -->
+<!-- metadata: rhwjxczo8g -->
+<!-- metadata: vqhahgdn4x -->
+<!-- metadata: cbj4fgn16g -->
+<!-- metadata: z9hw1dhi6x -->
+<!-- metadata: ibvqkvj3mc -->
+<!-- metadata: vzwsyx3snt -->
 
 All variables are optional.
 
@@ -88,8 +95,6 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
-
----
 
 ## Keyboard shortcuts
 
