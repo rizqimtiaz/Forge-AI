@@ -82,6 +82,8 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
+  ai-schemas.ts                # Zod schemas + inferred types
+  utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
@@ -95,15 +97,6 @@ store/
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
-<!-- metadata: fe5gz1it8a -->
-<!-- metadata: a4v0xhnc3h -->
-<!-- metadata: x7gh5zvmv9 -->
-<!-- metadata: lv8kvho7yb -->
-<!-- metadata: zd01aq730w -->
-<!-- metadata: 4l1y9fmbkm -->
-<!-- metadata: lzf069tr2f -->
-<!-- metadata: swrv1ulljx -->
-<!-- metadata: 9fm1j892nd -->
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
