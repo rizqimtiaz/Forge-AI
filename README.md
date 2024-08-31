@@ -48,6 +48,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
+---
+
+## Environment variables
+
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -85,12 +89,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
-<!-- metadata: ddsgbn40e8 -->
-<!-- metadata: 32jdpnfk17 -->
-<!-- metadata: uusd0el40m -->
-<!-- metadata: 2gf3yn9kf8 -->
-<!-- metadata: a7xbtz120n -->
-<!-- metadata: o0vu1btno5 -->
 ---
 
 ## Keyboard shortcuts
