@@ -95,9 +95,9 @@ store/
 
 | Key | Action |
 | --- | --- |
-| `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
+<!-- metadata: p4k4rdv93q -->
 
 ---
 
