@@ -30,11 +30,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Getting started
 
-<!-- metadata: 3tayr7eb1a -->
-<!-- metadata: fsnhgb3kza -->
-<!-- metadata: 0nvtc12ds3 -->
-<!-- metadata: olt9ctq5nb -->
-<!-- metadata: bkqze40noo -->
 ```bash
 # 1. install
 npm install
@@ -69,6 +64,9 @@ All variables are optional.
 ---
 
 ## File map
+
+```
+app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
