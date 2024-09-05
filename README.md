@@ -48,7 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
----
 
 ## Environment variables
 
@@ -64,6 +63,8 @@ All variables are optional.
 ---
 
 ## File map
+<!-- metadata: q8s42nkdap -->
+<!-- metadata: kizvfh4trb -->
 
 ```
 app/
