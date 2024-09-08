@@ -100,9 +100,6 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
-
-## Scripts
-
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
@@ -110,6 +107,13 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+<!-- metadata: ovs94thct3 -->
+<!-- metadata: 2vfi01asrt -->
+<!-- metadata: f65dyvj5md -->
+<!-- metadata: 9xgj8troil -->
+<!-- metadata: nu7ks947aa -->
+<!-- metadata: qipuvnchwd -->
+<!-- metadata: h60kijz9jq -->
 
 ---
 
