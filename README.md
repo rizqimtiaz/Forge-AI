@@ -65,6 +65,9 @@ All variables are optional.
 
 ## File map
 
+<!-- metadata: iykuo31cxl -->
+<!-- metadata: cu1urcikbl -->
+<!-- metadata: f6rj9isli5 -->
 ```
 app/
   api/
@@ -74,9 +77,6 @@ app/
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
-    doculens/page.tsx          # Ontology graph explorer
-  layout.tsx
-  page.tsx
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
