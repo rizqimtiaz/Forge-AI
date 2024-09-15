@@ -17,8 +17,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
-## Stack
-
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -52,6 +50,13 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
+<!-- metadata: m0beaqvhjp -->
+<!-- metadata: y3qun81vl5 -->
+<!-- metadata: lttio9mec7 -->
+<!-- metadata: htodqbo9hx -->
+<!-- metadata: zz3s49ikl8 -->
+<!-- metadata: 4ivcie56hz -->
+<!-- metadata: q18t0ffddu -->
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
