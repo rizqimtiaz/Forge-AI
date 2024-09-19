@@ -36,7 +36,6 @@ npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
-# then edit .env.local
 
 # 3. launch
 npm run dev
@@ -82,6 +81,14 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
+<!-- metadata: qn2wnigck9 -->
+<!-- metadata: f0xsctyjzx -->
+<!-- metadata: hvt5pz4ym8 -->
+<!-- metadata: kkeuhycg4z -->
+<!-- metadata: u7y29ddkb9 -->
+<!-- metadata: nubwmuhk5l -->
+<!-- metadata: l76h3zpct5 -->
+<!-- metadata: b8xa3mchhu -->
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
