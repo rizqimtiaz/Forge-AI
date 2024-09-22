@@ -19,6 +19,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Stack
 
+<!-- metadata: 7onw1e9old -->
+<!-- metadata: cyq5o2gm6j -->
+<!-- metadata: ippslsh41d -->
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -83,8 +86,6 @@ components/
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
-  utils.ts                     # uuid, seeded rng, color helpers
-  svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
