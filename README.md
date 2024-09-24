@@ -87,16 +87,10 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
+```
 
 ---
 
-<!-- metadata: wx6s42i52h -->
-<!-- metadata: at06ehyxz1 -->
-<!-- metadata: huw2z9zm8v -->
-<!-- metadata: 56fnrfa77v -->
-<!-- metadata: dpvrz4fn7m -->
-<!-- metadata: 3bz7mgh0sp -->
-<!-- metadata: p8z2vz7ycq -->
 ## Keyboard shortcuts
 
 | Key | Action |
