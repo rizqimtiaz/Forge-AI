@@ -38,6 +38,10 @@ npm install
 cp .env.example .env.local
 # then edit .env.local
 
+# 3. launch
+npm run dev
+```
+
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
@@ -67,10 +71,6 @@ app/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
-<!-- metadata: bs4anmia93 -->
-<!-- metadata: bndr6ik504 -->
-<!-- metadata: it88jos6uj -->
-<!-- metadata: vxqhjng6db -->
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
