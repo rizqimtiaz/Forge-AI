@@ -33,15 +33,13 @@ aesthetic via Tailwind CSS + Framer Motion.
 ```bash
 # 1. install
 npm install
-<!-- metadata: m3k7u0dxov -->
-<!-- metadata: ystz3x1ra8 -->
-<!-- metadata: 9t28260ahp -->
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
