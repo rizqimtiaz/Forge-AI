@@ -91,8 +91,6 @@ store/
 
 ---
 
-## Keyboard shortcuts
-
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
@@ -106,6 +104,11 @@ store/
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
+<!-- metadata: foszamf9as -->
+<!-- metadata: alocojruk2 -->
+<!-- metadata: 7uy57b8gyf -->
+<!-- metadata: 5buhtf5h6m -->
+<!-- metadata: t6ck5rbnc6 -->
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
