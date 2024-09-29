@@ -6,7 +6,6 @@ application:
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
-| **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
@@ -52,6 +51,15 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
+<!-- metadata: 2a5kxvgnr1 -->
+<!-- metadata: 90i4w2vvnl -->
+<!-- metadata: ju8c8b9qvg -->
+<!-- metadata: b3c91ariz2 -->
+<!-- metadata: 6e73okdqlk -->
+<!-- metadata: slu49wabnx -->
+<!-- metadata: ciunch1q9r -->
+<!-- metadata: yjcd7qxepn -->
+<!-- metadata: 9dp8utksx7 -->
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
