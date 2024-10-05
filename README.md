@@ -25,9 +25,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
-
----
-
 ## Getting started
 
 ```bash
@@ -93,6 +90,12 @@ store/
 
 ## Keyboard shortcuts
 
+<!-- metadata: 2fqfgwx06r -->
+<!-- metadata: 95892e72kb -->
+<!-- metadata: 3vnok37193 -->
+<!-- metadata: akddrapf51 -->
+<!-- metadata: x45p82mkuh -->
+<!-- metadata: 3iqbcayc0c -->
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
