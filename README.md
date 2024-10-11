@@ -20,10 +20,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
-<!-- metadata: wkih2495eq -->
-<!-- metadata: ehpc0vogb1 -->
-<!-- metadata: a4d0rp887q -->
-<!-- metadata: zluc3a09ng -->
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
@@ -103,6 +99,9 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
+---
+
+## Scripts
 
 | Command | |
 | --- | --- |
