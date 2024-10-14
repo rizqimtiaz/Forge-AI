@@ -36,10 +36,6 @@ npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
-# then edit .env.local
-
-# 3. launch
-npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
@@ -112,6 +108,9 @@ store/
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
+<!-- metadata: aptqlk191i -->
+<!-- metadata: kt4vowvweo -->
+<!-- metadata: npak9ossa6 -->
 
 ## License
 
