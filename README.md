@@ -10,6 +10,14 @@ application:
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
+<!-- metadata: yp0baewtzs -->
+<!-- metadata: ca82jhy3dx -->
+<!-- metadata: 2nci9zw8jq -->
+<!-- metadata: d63wwel0qn -->
+<!-- metadata: 8jlaf67j6w -->
+<!-- metadata: p96nljufsh -->
+<!-- metadata: jflxbfdugv -->
+<!-- metadata: 7em6qympet -->
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
@@ -69,8 +77,6 @@ All variables are optional.
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-    semantic-draw/route.ts     # ControlNet + latent interpretation
-    graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
