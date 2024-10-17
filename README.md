@@ -36,6 +36,14 @@ npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
+<!-- metadata: 7ekn09klix -->
+<!-- metadata: qxhzpqyz9v -->
+<!-- metadata: ww1mh627rd -->
+<!-- metadata: uyx9eho4u0 -->
+<!-- metadata: o4m3lnmtuv -->
+<!-- metadata: lpgr1dtl1o -->
+<!-- metadata: u9c0wewycg -->
+<!-- metadata: 1tl1rw6b2x -->
 # then edit .env.local
 
 # 3. launch
@@ -49,9 +57,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > you can clone → `npm run dev` → demo instantly.
 
 ---
-
-## Environment variables
-
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
