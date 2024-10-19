@@ -36,9 +36,6 @@ npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
-# then edit .env.local
-
-# 3. launch
 npm run dev
 ```
 
@@ -91,6 +88,8 @@ store/
 
 ---
 
+<!-- metadata: 9b2vi3w8sx -->
+<!-- metadata: 6slcrcosbg -->
 ## Keyboard shortcuts
 
 | Key | Action |
