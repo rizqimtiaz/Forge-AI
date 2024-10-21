@@ -70,6 +70,9 @@ app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
+    graph-ingest/route.ts      # OCR + triple extraction
+  (labs)/
+    asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
@@ -86,15 +89,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
-<!-- metadata: x0wvaot37s -->
-<!-- metadata: wzyqic2ynj -->
-<!-- metadata: c8eu1yqk17 -->
-<!-- metadata: hgf1umv63t -->
-<!-- metadata: 3qqnj60ybp -->
-<!-- metadata: qyyeuctus9 -->
-<!-- metadata: omfzcl8x66 -->
-<!-- metadata: o1gto2i5tm -->
-<!-- metadata: c9cjmt6kvm -->
 ---
 
 ## Keyboard shortcuts
