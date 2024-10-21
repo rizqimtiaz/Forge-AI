@@ -60,7 +60,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
 All variables are optional.
-
 ---
 
 ## File map
@@ -84,6 +83,8 @@ components/
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
+<!-- metadata: lyyxlfjbmg -->
+<!-- metadata: a72wtqtqnl -->
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
