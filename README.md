@@ -45,7 +45,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
-> produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -68,6 +67,11 @@ All variables are optional.
 ```
 app/
   api/
+<!-- metadata: r3wmgocayl -->
+<!-- metadata: 6q5axrj77h -->
+<!-- metadata: m4nzmtama6 -->
+<!-- metadata: ispf7sinmm -->
+<!-- metadata: leoso52fot -->
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
