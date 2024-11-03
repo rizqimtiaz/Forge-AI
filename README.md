@@ -60,11 +60,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
 All variables are optional.
-<!-- metadata: wv4f2kmtjn -->
-<!-- metadata: bm3fkp804r -->
-<!-- metadata: lanj8qk936 -->
-<!-- metadata: wnpxfxf0xw -->
-<!-- metadata: 7l7ciyl0uh -->
 
 ---
 
@@ -105,6 +100,8 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
+
+## Scripts
 
 | Command | |
 | --- | --- |
