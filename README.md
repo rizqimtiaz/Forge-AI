@@ -10,6 +10,9 @@ application:
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
+<!-- metadata: kle27k3xu7 -->
+<!-- metadata: w3n16c77aa -->
+<!-- metadata: t4qls3mut0 -->
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
@@ -43,10 +46,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
-
-> **Zero-config by design.** Every API route has a deterministic fallback that
-> produces rich, visually-interesting output even when no API keys are set, so
-> you can clone → `npm run dev` → demo instantly.
 
 ---
 
