@@ -89,6 +89,9 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
+---
+
+## Keyboard shortcuts
 
 | Key | Action |
 | --- | --- |
@@ -113,13 +116,3 @@ store/
 ## License
 
 MIT © Forge-AI Labs
-<!-- metadata: wnlcm71smo -->
-<!-- metadata: rz99sgnda9 -->
-<!-- metadata: 08rqcn6i1l -->
-<!-- metadata: pf4ym3bhez -->
-<!-- metadata: wijghoatrm -->
-<!-- metadata: u2rdea1yxu -->
-<!-- metadata: kt1zrj7hl2 -->
-<!-- metadata: 4yjzgj8ax1 -->
-<!-- metadata: utmyalp3hn -->
-<!-- metadata: z1it8mmvpr -->
