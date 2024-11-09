@@ -31,6 +31,8 @@ aesthetic via Tailwind CSS + Framer Motion.
 ## Getting started
 
 ```bash
+# 1. install
+npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
@@ -79,8 +81,6 @@ app/
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
-<!-- metadata: pev0uhkfx1 -->
-<!-- metadata: o7ypakskrp -->
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
