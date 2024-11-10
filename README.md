@@ -50,9 +50,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ---
 
-## Environment variables
-
-| Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
@@ -76,6 +73,12 @@ app/
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
+<!-- metadata: 41i9gt1ros -->
+<!-- metadata: fqwjjvmwlq -->
+<!-- metadata: hxobumlsr2 -->
+<!-- metadata: wbwv5mtun3 -->
+<!-- metadata: uo35g4inxd -->
+<!-- metadata: 0yx5iuhb8x -->
   page.tsx
   globals.css
 components/
