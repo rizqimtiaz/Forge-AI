@@ -26,10 +26,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
----
-
-## Getting started
-
 ```bash
 # 1. install
 npm install
@@ -106,6 +102,12 @@ store/
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
+<!-- metadata: ofn4yvgasy -->
+<!-- metadata: nxmu0ubyw4 -->
+<!-- metadata: 7bf8sliw3z -->
+<!-- metadata: 3pn5kl15ue -->
+<!-- metadata: wltjqzxi0y -->
+<!-- metadata: s1liyjrrzh -->
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
