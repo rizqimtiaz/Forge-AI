@@ -51,6 +51,8 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ---
 
 ## Environment variables
+
+| Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
@@ -64,16 +66,6 @@ All variables are optional.
 ## File map
 
 ```
-<!-- metadata: 0lgn6i3xip -->
-<!-- metadata: xrygk837pf -->
-<!-- metadata: jxzvihj2sq -->
-<!-- metadata: 821wwc4ae4 -->
-<!-- metadata: b7pzv15lnn -->
-<!-- metadata: o9ie5x4tsx -->
-<!-- metadata: 3z4v20zcqy -->
-<!-- metadata: dk2emewz12 -->
-<!-- metadata: b8sbh8p7y2 -->
-<!-- metadata: yhckg7ql98 -->
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
