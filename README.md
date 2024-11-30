@@ -54,6 +54,15 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 | Variable | Purpose |
 | --- | --- |
+<!-- metadata: u7qheiwv6h -->
+<!-- metadata: 9m1pnur71g -->
+<!-- metadata: 0c8l77zhh4 -->
+<!-- metadata: ruy3vu8ldz -->
+<!-- metadata: viius63a8p -->
+<!-- metadata: gemypf7ad3 -->
+<!-- metadata: 1bql8qns1u -->
+<!-- metadata: 7qqeqdbmid -->
+<!-- metadata: dsmm9o7yao -->
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
@@ -106,8 +115,6 @@ store/
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
-| `npm run build` | Production build |
-| `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
