@@ -16,7 +16,6 @@ schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
-
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -113,6 +112,8 @@ store/
 
 ---
 
+<!-- metadata: ut4yf3onik -->
+<!-- metadata: 8jmuh0or5i -->
 ## License
 
 MIT © Forge-AI Labs
