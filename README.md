@@ -64,6 +64,10 @@ All variables are optional.
 ---
 
 ## File map
+
+```
+app/
+  api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
@@ -102,13 +106,6 @@ store/
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
-<!-- metadata: cwd8fsenws -->
-<!-- metadata: adhf0sfzhy -->
-<!-- metadata: 39doxn9qhu -->
-<!-- metadata: s3zfjnf034 -->
-<!-- metadata: sm2vdwq7ub -->
-<!-- metadata: ri050s2uc8 -->
-<!-- metadata: cvvlkaowx6 -->
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
