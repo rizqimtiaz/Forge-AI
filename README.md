@@ -39,9 +39,6 @@ cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
-npm run dev
-```
-
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
@@ -114,5 +111,9 @@ store/
 ---
 
 ## License
+<!-- metadata: vs2r1gg35s -->
+<!-- metadata: vi01jexyre -->
+<!-- metadata: 2ad1tk85m8 -->
+<!-- metadata: al8m2j8n1e -->
 
 MIT © Forge-AI Labs
