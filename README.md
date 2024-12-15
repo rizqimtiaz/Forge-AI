@@ -12,7 +12,6 @@ application:
 
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
-schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
 ---
@@ -43,6 +42,10 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+<!-- metadata: dmh078pe0z -->
+<!-- metadata: jblm7cg7rt -->
+<!-- metadata: s6obd8wb4x -->
+<!-- metadata: ofgooooh43 -->
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
