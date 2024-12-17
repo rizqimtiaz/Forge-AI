@@ -28,6 +28,16 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
+<!-- metadata: a5h4xfk5p1 -->
+<!-- metadata: i10gp8wn50 -->
+<!-- metadata: t6o51i22ch -->
+<!-- metadata: 3izbgtsxrm -->
+<!-- metadata: zp5cn2bk80 -->
+<!-- metadata: 2jfyv36cnb -->
+<!-- metadata: onqqkjvz4g -->
+<!-- metadata: 1dt6f5eu2o -->
+<!-- metadata: 6y73tskx5i -->
+<!-- metadata: 1u93trq3wb -->
 ## Getting started
 
 ```bash
@@ -47,8 +57,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
-
----
 
 ## Environment variables
 
