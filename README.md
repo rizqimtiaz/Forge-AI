@@ -32,7 +32,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
-npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
@@ -87,6 +86,10 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
+<!-- metadata: kxezt2b82m -->
+<!-- metadata: 2j82wlwq3i -->
+<!-- metadata: zveu5yfb4e -->
+<!-- metadata: hd2g3pd36o -->
 ```
 
 ---
