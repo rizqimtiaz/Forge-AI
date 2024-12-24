@@ -77,14 +77,13 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
-  globals.css
-components/
-  navigation/Sidebar.tsx       # Animated lab switcher
-  ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
+<!-- metadata: 7a4fq3r4pc -->
+<!-- metadata: e1r8gj2ns4 -->
+<!-- metadata: 9e9k3qtnnm -->
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
