@@ -52,6 +52,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
+<!-- metadata: xgqlkkifsg -->
+<!-- metadata: 05d3lt7thv -->
+<!-- metadata: fhcdiqlnfq -->
+<!-- metadata: 7fnana0vo6 -->
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -81,10 +85,6 @@ app/
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
-lib/
-  ai-schemas.ts                # Zod schemas + inferred types
-  utils.ts                     # uuid, seeded rng, color helpers
-  svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
