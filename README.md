@@ -32,6 +32,16 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
+<!-- metadata: 8re0yzpcp9 -->
+<!-- metadata: 7p43pk7lje -->
+<!-- metadata: cw3du8j2vh -->
+<!-- metadata: touc7lqwi6 -->
+<!-- metadata: gencw9nxda -->
+<!-- metadata: o5jm3igcwd -->
+<!-- metadata: w4z7z37cdk -->
+<!-- metadata: nctvbh1x3x -->
+<!-- metadata: 8h2pte5yrs -->
+<!-- metadata: sj3w0nkya8 -->
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -77,7 +87,6 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
-  globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
