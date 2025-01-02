@@ -46,6 +46,11 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
+<!-- metadata: tc8iaub7m0 -->
+<!-- metadata: ob6fgid1bd -->
+<!-- metadata: nvllptptp3 -->
+<!-- metadata: p8pygmse2x -->
+<!-- metadata: kason5wxz3 -->
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -78,9 +83,6 @@ app/
   layout.tsx
   page.tsx
   globals.css
-components/
-  navigation/Sidebar.tsx       # Animated lab switcher
-  ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
