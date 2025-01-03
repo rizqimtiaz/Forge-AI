@@ -30,6 +30,14 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Getting started
 
+<!-- metadata: at9o1w3wii -->
+<!-- metadata: 12iqndejiu -->
+<!-- metadata: 7ac78xk7gj -->
+<!-- metadata: bttmvgj7lu -->
+<!-- metadata: 1szjqi848x -->
+<!-- metadata: hj81uxmvt9 -->
+<!-- metadata: 5zzu9rqcbe -->
+<!-- metadata: ggpl2b71jl -->
 ```bash
 # 1. install
 npm install
@@ -41,10 +49,6 @@ cp .env.example .env.local
 # 3. launch
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) and click into any lab.
-
-> **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
