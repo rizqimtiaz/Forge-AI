@@ -26,6 +26,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+---
+
+## Getting started
+
 ```bash
 # 1. install
 npm install
@@ -63,15 +67,6 @@ All variables are optional.
 
 ```
 app/
-<!-- metadata: n9ht5w0vig -->
-<!-- metadata: ufs27t1nom -->
-<!-- metadata: g66a02dvcq -->
-<!-- metadata: niw9wipcz0 -->
-<!-- metadata: rz2gl9snci -->
-<!-- metadata: ok26ohw7nv -->
-<!-- metadata: s71luxhgi0 -->
-<!-- metadata: ve627y1ccp -->
-<!-- metadata: emyok2vdxk -->
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
