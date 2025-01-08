@@ -52,8 +52,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
-| Variable | Purpose |
-| --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
@@ -114,5 +112,9 @@ store/
 ---
 
 ## License
+<!-- metadata: wklmi02f8f -->
+<!-- metadata: ftcl0i55tc -->
+<!-- metadata: 9kex8vmxk4 -->
+<!-- metadata: f82tdom1zn -->
 
 MIT © Forge-AI Labs
