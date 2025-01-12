@@ -3,7 +3,6 @@
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
-
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
@@ -93,6 +92,9 @@ store/
 
 ## Keyboard shortcuts
 
+<!-- metadata: ymmvwozl7n -->
+<!-- metadata: cr3ca2ba39 -->
+<!-- metadata: rugr1rg32t -->
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
