@@ -18,7 +18,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ---
 
 ## Stack
-
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -26,6 +25,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+<!-- metadata: jev2tkye3m -->
+<!-- metadata: z9a83zgtne -->
+<!-- metadata: k6r6b96gzv -->
+<!-- metadata: y5spgmkucw -->
 ---
 
 ## Getting started
