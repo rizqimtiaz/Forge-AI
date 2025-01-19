@@ -89,6 +89,10 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
+---
+
+## Keyboard shortcuts
+
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
@@ -108,13 +112,6 @@ store/
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
-<!-- metadata: hk7iwq9neu -->
-<!-- metadata: w33cmrzpy0 -->
-<!-- metadata: mfrx7nddy0 -->
-<!-- metadata: aq9f83q9ss -->
-<!-- metadata: f1uxuet5u0 -->
-<!-- metadata: vsbbrmphyp -->
-<!-- metadata: m7brvz3fq9 -->
 
 ## License
 
