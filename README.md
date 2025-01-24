@@ -56,13 +56,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
-<!-- metadata: bt01xt19jl -->
-<!-- metadata: whno0o71fd -->
-<!-- metadata: w55ikc393s -->
-<!-- metadata: suj3tfp6ni -->
-<!-- metadata: d7qiu16ipc -->
-<!-- metadata: 7ljoqimvbt -->
-<!-- metadata: 5vk9nidt6y -->
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
@@ -116,6 +109,10 @@ store/
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
+| `npm run typecheck` | TypeScript `--noEmit` |
+
+---
+
 ## License
 
 MIT © Forge-AI Labs
