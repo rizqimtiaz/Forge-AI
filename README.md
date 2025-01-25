@@ -31,11 +31,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ## Getting started
 
 ```bash
-<!-- metadata: nxk4r30kzj -->
-<!-- metadata: 03ldzquq5a -->
-<!-- metadata: eikbfutzny -->
-<!-- metadata: u38leb3bnf -->
-<!-- metadata: zwc3tut3my -->
 # 1. install
 npm install
 
@@ -88,6 +83,9 @@ components/
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
+  utils.ts                     # uuid, seeded rng, color helpers
+  svg-placeholders.ts          # procedural fallbacks
+store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
