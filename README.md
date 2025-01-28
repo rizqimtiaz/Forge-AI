@@ -66,16 +66,6 @@ All variables are optional.
 ## File map
 
 ```
-<!-- metadata: cgckewtper -->
-<!-- metadata: uucxh142ug -->
-<!-- metadata: 1guzs2qfh7 -->
-<!-- metadata: 7m0mwm0df0 -->
-<!-- metadata: ja3rzc27sx -->
-<!-- metadata: cmmoimnm51 -->
-<!-- metadata: 5802xz01wf -->
-<!-- metadata: hyll6wfbsy -->
-<!-- metadata: smk6mracg8 -->
-<!-- metadata: baqd3tgflm -->
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
@@ -120,5 +110,9 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+
+---
+
+## License
 
 MIT © Forge-AI Labs
