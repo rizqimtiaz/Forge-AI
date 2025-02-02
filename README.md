@@ -86,12 +86,6 @@ lib/
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
-<!-- metadata: cb4js8oymf -->
-<!-- metadata: jr9iqd36ms -->
-<!-- metadata: h7r9ui0phc -->
-<!-- metadata: ojzxaonhnl -->
-<!-- metadata: 2thw8e3d2t -->
-<!-- metadata: ypbycktxn4 -->
   useForgeStore.ts             # Zustand store with three slices
 ```
 
@@ -100,6 +94,10 @@ store/
 ## Keyboard shortcuts
 
 | Key | Action |
+| --- | --- |
+| `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
+| `\` | Collapse / expand the sidebar |
+| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
 
