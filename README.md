@@ -32,6 +32,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
+npm install
+
+# 2. (optional) wire up AI credentials
+cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
@@ -74,13 +78,6 @@ app/
   layout.tsx
   page.tsx
   globals.css
-<!-- metadata: 6yft6h7d6i -->
-<!-- metadata: r4e9hfjjh7 -->
-<!-- metadata: vlukw3wsu0 -->
-<!-- metadata: 7qbgv9mycc -->
-<!-- metadata: fdz4lasiev -->
-<!-- metadata: hspwvyfhr2 -->
-<!-- metadata: bkvxkgfpok -->
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
