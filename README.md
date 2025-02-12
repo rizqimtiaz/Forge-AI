@@ -64,9 +64,6 @@ All variables are optional.
 ---
 
 ## File map
-
-```
-app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
@@ -94,6 +91,16 @@ store/
 ## Keyboard shortcuts
 
 | Key | Action |
+<!-- metadata: zlxbqvpbu1 -->
+<!-- metadata: mfhy9qnh25 -->
+<!-- metadata: ac8gzomc4b -->
+<!-- metadata: g97gb8ebag -->
+<!-- metadata: aa4vx7mqof -->
+<!-- metadata: 8kexjl8xun -->
+<!-- metadata: tbn8wpap5o -->
+<!-- metadata: 7vfnzbdqa4 -->
+<!-- metadata: ktoaix3bea -->
+<!-- metadata: pecc26innl -->
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
