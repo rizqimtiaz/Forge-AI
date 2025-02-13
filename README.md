@@ -51,7 +51,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ---
 
 ## Environment variables
-
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -110,6 +109,12 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+<!-- metadata: mvfeh0l432 -->
+<!-- metadata: 0ciu61qpj6 -->
+<!-- metadata: q5s1eol1zt -->
+<!-- metadata: bvzin19czk -->
+<!-- metadata: ogz1lpt0vm -->
+<!-- metadata: 03o17rm8si -->
 
 ---
 
