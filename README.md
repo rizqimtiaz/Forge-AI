@@ -52,6 +52,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
+<!-- metadata: ssmrpcgf20 -->
+<!-- metadata: b1afyvymxj -->
+<!-- metadata: 61cioexyf1 -->
+<!-- metadata: ujlbdo419n -->
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -66,9 +70,6 @@ All variables are optional.
 ## File map
 
 ```
-app/
-  api/
-    asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
