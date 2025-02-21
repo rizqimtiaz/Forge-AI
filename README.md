@@ -9,12 +9,20 @@ application:
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
+<!-- metadata: mq4nq2d1qx -->
+<!-- metadata: sg5cvqvpt9 -->
+<!-- metadata: f485zhv6qk -->
+<!-- metadata: r9uxcfqt3d -->
+<!-- metadata: vciyo8525c -->
+<!-- metadata: fhpvby578h -->
+<!-- metadata: ylhlbvz3ek -->
+<!-- metadata: 2ckyktalqs -->
+<!-- metadata: miou0ijwlk -->
+<!-- metadata: e7wx8shua8 -->
 
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
-aesthetic via Tailwind CSS + Framer Motion.
-
 ---
 
 ## Stack
