@@ -42,6 +42,8 @@ cp .env.example .env.local
 npm run dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) and click into any lab.
+
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
@@ -83,7 +85,6 @@ lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
-<!-- metadata: q1kfjwnuiu -->
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
