@@ -14,9 +14,6 @@ Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
-
----
-
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -54,6 +51,13 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 | Variable | Purpose |
 | --- | --- |
+<!-- metadata: gkq89ymf59 -->
+<!-- metadata: tcnt0s8ze3 -->
+<!-- metadata: gju4sgfiur -->
+<!-- metadata: e5nja2s40x -->
+<!-- metadata: sxrdjg9hkm -->
+<!-- metadata: v91yleeuq1 -->
+<!-- metadata: 61huscm0dd -->
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
