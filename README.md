@@ -15,6 +15,8 @@ Every lab is powered by a single unified Zustand store (sliced into
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
+---
+
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -51,10 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ## Environment variables
 
 | Variable | Purpose |
-<!-- metadata: 25ifj77t3d -->
-<!-- metadata: 1bkm7ggvn3 -->
-<!-- metadata: hckl8hn10h -->
-<!-- metadata: insy3siwzx -->
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
