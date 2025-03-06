@@ -3,10 +3,6 @@
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
-<!-- metadata: 2njqmez5a8 -->
-<!-- metadata: 9t7jhayepj -->
-<!-- metadata: sjcegxwase -->
-<!-- metadata: tf42i0nbbj -->
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
@@ -86,6 +82,10 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
+  ai-schemas.ts                # Zod schemas + inferred types
+  utils.ts                     # uuid, seeded rng, color helpers
+  svg-placeholders.ts          # procedural fallbacks
+store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
