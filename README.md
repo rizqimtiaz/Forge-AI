@@ -17,10 +17,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
-<!-- metadata: 001ghb5cym -->
-<!-- metadata: goytf5e016 -->
-<!-- metadata: je8u4pazx0 -->
-<!-- metadata: 94489sgmn2 -->
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -69,6 +65,10 @@ All variables are optional.
 
 ## File map
 
+```
+app/
+  api/
+    asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
