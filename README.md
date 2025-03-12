@@ -59,6 +59,9 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
+All variables are optional.
+
+---
 
 ## File map
 
@@ -112,14 +115,4 @@ store/
 
 ## License
 
-<!-- metadata: if4hshwhna -->
-<!-- metadata: vqngjj6ay0 -->
-<!-- metadata: wlhxbe72ff -->
-<!-- metadata: uvdajin53b -->
-<!-- metadata: saatgz9qj3 -->
-<!-- metadata: cu48bwcpx1 -->
-<!-- metadata: apvno429kc -->
-<!-- metadata: m86zi3ee1a -->
-<!-- metadata: hlwl62ju8p -->
-<!-- metadata: s3rwlrctpo -->
 MIT © Forge-AI Labs
