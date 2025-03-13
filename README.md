@@ -14,14 +14,6 @@ Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
-<!-- metadata: wtmksn3m64 -->
-<!-- metadata: gld20xn83l -->
-<!-- metadata: oswefmq2go -->
-<!-- metadata: zgeg14gto8 -->
-<!-- metadata: ks4rcdsnzy -->
-<!-- metadata: f0z537zwu7 -->
-<!-- metadata: pguphbzyzf -->
-<!-- metadata: f25kvbgpcd -->
 
 ---
 
@@ -95,6 +87,8 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
+```
+
 ---
 
 ## Keyboard shortcuts
