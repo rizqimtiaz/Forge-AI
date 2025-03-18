@@ -13,9 +13,6 @@ application:
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
-aesthetic via Tailwind CSS + Framer Motion.
-
----
 
 ## Stack
 
@@ -72,6 +69,13 @@ app/
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
+<!-- metadata: hw2l2068re -->
+<!-- metadata: vl3f8whpaj -->
+<!-- metadata: gh6y4nsujy -->
+<!-- metadata: ltnxjgr0n2 -->
+<!-- metadata: 4741yn0ldj -->
+<!-- metadata: j6siyny8ib -->
+<!-- metadata: y7qw3oxn8n -->
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
