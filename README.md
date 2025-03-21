@@ -53,10 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ## Environment variables
 
 | Variable | Purpose |
-<!-- metadata: kg6bztwq77 -->
-<!-- metadata: 0w7dlc56no -->
-<!-- metadata: tq20w12hw4 -->
-<!-- metadata: f468o4n5g0 -->
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
@@ -114,6 +110,8 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
+
+---
 
 ## License
 
