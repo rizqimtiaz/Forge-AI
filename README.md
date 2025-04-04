@@ -86,6 +86,10 @@ lib/
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
+  useForgeStore.ts             # Zustand store with three slices
+```
+
+---
 
 ## Keyboard shortcuts
 
@@ -97,8 +101,6 @@ store/
 
 ---
 
-<!-- metadata: 2a3ygo5vtt -->
-<!-- metadata: kljdoou9zm -->
 ## Scripts
 
 | Command | |
