@@ -72,8 +72,6 @@ app/
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
-    asset-ai/page.tsx          # Parametric e-commerce UI
-    chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
@@ -99,6 +97,10 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
+<!-- metadata: 8zh8c82n3o -->
+<!-- metadata: 1zkxbattr4 -->
+<!-- metadata: 0l7fb2p2dj -->
+<!-- metadata: gjbw7y423x -->
 ---
 
 ## Scripts
