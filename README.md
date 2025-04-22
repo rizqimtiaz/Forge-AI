@@ -62,6 +62,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 All variables are optional.
 
 ---
+
+## File map
+
+```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
@@ -72,13 +76,6 @@ app/
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
-<!-- metadata: qngnldzlm0 -->
-<!-- metadata: hu5efzt5g2 -->
-<!-- metadata: 2ubi6pn6q1 -->
-<!-- metadata: gnqcl0mp3r -->
-<!-- metadata: 1x68gup5l7 -->
-<!-- metadata: 6vdezh4cxr -->
-<!-- metadata: wlffgo0qyd -->
   page.tsx
   globals.css
 components/
