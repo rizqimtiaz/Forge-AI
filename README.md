@@ -88,7 +88,6 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
-<!-- metadata: ut4u5h272t -->
 
 ---
 
@@ -100,6 +99,7 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
+---
 
 ## Scripts
 
