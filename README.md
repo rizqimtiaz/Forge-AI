@@ -48,14 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
-<!-- metadata: 1gmser00bv -->
-<!-- metadata: 0cykasvrss -->
-<!-- metadata: drvvg2kxjg -->
-<!-- metadata: 4ir7wlg731 -->
-<!-- metadata: fkhlp764jo -->
-<!-- metadata: 2ortgcwq15 -->
-<!-- metadata: 5ucq27nkng -->
-<!-- metadata: uwin9r96qf -->
 ---
 
 ## Environment variables
@@ -117,6 +109,8 @@ store/
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
+| `npm run typecheck` | TypeScript `--noEmit` |
+
 ---
 
 ## License
