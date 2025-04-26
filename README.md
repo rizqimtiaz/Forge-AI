@@ -71,11 +71,6 @@ app/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
-<!-- metadata: f4g8yssuaz -->
-<!-- metadata: 25se4k2ab5 -->
-<!-- metadata: viz71kmzaf -->
-<!-- metadata: eumarrorl9 -->
-<!-- metadata: 3bex6wo2h5 -->
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
@@ -92,6 +87,7 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
+```
 
 ---
 
