@@ -55,6 +55,12 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
+<!-- metadata: h1qc71jgqo -->
+<!-- metadata: m917nvaxgh -->
+<!-- metadata: bh8oihgqmx -->
+<!-- metadata: gs6fpcehrb -->
+<!-- metadata: iy8t4rdeey -->
+<!-- metadata: yxn4peaf3c -->
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
@@ -87,7 +93,6 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
-```
 
 ---
 
