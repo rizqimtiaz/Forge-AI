@@ -103,11 +103,14 @@ store/
 
 ## Scripts
 
+<!-- metadata: bhalz15piz -->
+<!-- metadata: ktm77tuhp2 -->
+<!-- metadata: ytgjpopv7n -->
+<!-- metadata: 2a03cfoun9 -->
+<!-- metadata: guu2wjddbw -->
+<!-- metadata: 798el24um4 -->
 | Command | |
 | --- | --- |
-| `npm run dev` | Start the dev server |
-| `npm run build` | Production build |
-| `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
