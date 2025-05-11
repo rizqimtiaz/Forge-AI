@@ -1,16 +1,6 @@
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
-<!-- metadata: e8xdmgwh4s -->
-<!-- metadata: 33bjilz8cl -->
-<!-- metadata: eut45tqgng -->
-<!-- metadata: 9ombq79vog -->
-<!-- metadata: yz4swcf6kt -->
-<!-- metadata: q3qv0qz17h -->
-<!-- metadata: rscnlk7co0 -->
-<!-- metadata: teyimkdcwx -->
-<!-- metadata: syirld5n46 -->
-<!-- metadata: s3l970u46u -->
 fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
@@ -60,6 +50,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ---
 
+## Environment variables
 
 | Variable | Purpose |
 | --- | --- |
