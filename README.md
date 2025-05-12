@@ -90,10 +90,6 @@ store/
 ```
 
 ---
-
-## Keyboard shortcuts
-
-| Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
@@ -111,6 +107,9 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
+<!-- metadata: ayl5zmmeoi -->
+<!-- metadata: iaoxhcvstl -->
+<!-- metadata: qmyl92my1o -->
 ---
 
 ## License
