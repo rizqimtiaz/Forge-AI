@@ -74,19 +74,12 @@ app/
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
+    doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
-<!-- metadata: czaub72c8w -->
-<!-- metadata: k5tp3lp352 -->
-<!-- metadata: c85zhv6at9 -->
-<!-- metadata: pdybirfcjo -->
-<!-- metadata: bggjth4pnr -->
-<!-- metadata: nd2orlgzv8 -->
-<!-- metadata: 8z5fllmouo -->
-<!-- metadata: p82mw09sif -->
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
