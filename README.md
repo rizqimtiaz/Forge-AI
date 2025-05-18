@@ -10,15 +10,6 @@ application:
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
-<!-- metadata: 3ddyn2rsr1 -->
-<!-- metadata: xajdbuf35h -->
-<!-- metadata: po2eta65nr -->
-<!-- metadata: giabudobx5 -->
-<!-- metadata: hzl3ab5gt1 -->
-<!-- metadata: 5qi5buq5vf -->
-<!-- metadata: 5whoivaing -->
-<!-- metadata: 4ms47kyhwu -->
-<!-- metadata: nv31rnqwad -->
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
@@ -71,6 +62,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 All variables are optional.
 
 ---
+
 ## File map
 
 ```
