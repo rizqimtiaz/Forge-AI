@@ -26,6 +26,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+---
 
 ## Getting started
 
@@ -109,12 +110,6 @@ store/
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
-<!-- metadata: krj8135n2g -->
-<!-- metadata: z0zl70ggck -->
-<!-- metadata: g5xpdm4lid -->
-<!-- metadata: luzebux4yz -->
-<!-- metadata: ydgetdnjht -->
-<!-- metadata: whpil4yg7u -->
 
 ---
 
