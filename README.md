@@ -36,6 +36,16 @@ npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
+<!-- metadata: 10t53uffof -->
+<!-- metadata: icnsb4fjhs -->
+<!-- metadata: obt7565hhi -->
+<!-- metadata: mfhoqatyoe -->
+<!-- metadata: pb7xhj48kv -->
+<!-- metadata: ib08xdhrme -->
+<!-- metadata: 25155jjiwl -->
+<!-- metadata: d7nsebja34 -->
+<!-- metadata: reyhpzgupz -->
+<!-- metadata: 9oblrh10ch -->
 # then edit .env.local
 
 # 3. launch
@@ -85,10 +95,6 @@ lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
-store/
-  useForgeStore.ts             # Zustand store with three slices
-```
-
 ---
 
 ## Keyboard shortcuts
