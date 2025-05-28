@@ -62,6 +62,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 All variables are optional.
 
 ---
+
+## File map
+
+```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
@@ -111,10 +115,4 @@ store/
 
 ## License
 
-<!-- metadata: 3x8b7w2yaa -->
-<!-- metadata: qn2ztb1ivz -->
-<!-- metadata: bq9xc6szjj -->
-<!-- metadata: 49uazerqo6 -->
-<!-- metadata: 39725w8y63 -->
-<!-- metadata: k28ny20yc0 -->
 MIT © Forge-AI Labs
