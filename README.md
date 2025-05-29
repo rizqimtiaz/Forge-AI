@@ -32,11 +32,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
-<!-- metadata: 3mbggjagmc -->
-<!-- metadata: 9mnnlw6qus -->
-<!-- metadata: 0rihsqzjes -->
-<!-- metadata: z1s42lk108 -->
-<!-- metadata: cua45mu0yx -->
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -84,6 +79,9 @@ app/
   page.tsx
   globals.css
 components/
+  navigation/Sidebar.tsx       # Animated lab switcher
+  ui/VisualEngine.tsx          # Shared high-performance canvas
+lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
