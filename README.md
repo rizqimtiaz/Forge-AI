@@ -48,6 +48,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
+---
+
+## Environment variables
+
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -61,13 +65,6 @@ All variables are optional.
 
 ## File map
 
-<!-- metadata: tde3abos11 -->
-<!-- metadata: oj8ffs2mqh -->
-<!-- metadata: a8njuxscw9 -->
-<!-- metadata: 2oismgiqal -->
-<!-- metadata: po6kqm2fw2 -->
-<!-- metadata: owsnha0qko -->
-<!-- metadata: 55ry9kccn9 -->
 ```
 app/
   api/
