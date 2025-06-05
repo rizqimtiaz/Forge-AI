@@ -8,7 +8,6 @@ application:
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
-| **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
@@ -48,6 +47,11 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
+<!-- metadata: t4q63xj1w0 -->
+<!-- metadata: 3rfjot64zh -->
+<!-- metadata: ey3a2ctiyc -->
+<!-- metadata: 1vp2gnp2ym -->
+<!-- metadata: m6hieuhm6m -->
 ---
 
 ## Environment variables
