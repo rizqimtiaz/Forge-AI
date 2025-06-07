@@ -25,6 +25,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
+
+---
+
 ## Getting started
 
 ```bash
@@ -48,14 +51,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ---
 
 ## Environment variables
-<!-- metadata: v4cfene3xy -->
-<!-- metadata: 0pq0k4xcwg -->
-<!-- metadata: es9bg85f3q -->
-<!-- metadata: 2hrd5hcors -->
-<!-- metadata: rx5gqntmp1 -->
-<!-- metadata: yc2x0jl7hr -->
-<!-- metadata: 0s9ed4uxv7 -->
-<!-- metadata: oc8k7bjrs2 -->
 
 | Variable | Purpose |
 | --- | --- |
