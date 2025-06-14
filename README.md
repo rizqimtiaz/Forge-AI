@@ -38,9 +38,6 @@ npm install
 cp .env.example .env.local
 # then edit .env.local
 
-# 3. launch
-npm run dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
@@ -73,6 +70,10 @@ app/
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
+<!-- metadata: 4e9owzaoqq -->
+<!-- metadata: p4gjopahxy -->
+<!-- metadata: 0ngipvl5tz -->
+<!-- metadata: q6ipkfjuju -->
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
