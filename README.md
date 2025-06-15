@@ -50,8 +50,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ---
 
-## Environment variables
-
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -116,3 +114,5 @@ store/
 ## License
 
 MIT © Forge-AI Labs
+<!-- metadata: xd2p12f8xm -->
+<!-- metadata: d8tef9bt6n -->
