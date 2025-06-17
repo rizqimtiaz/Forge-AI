@@ -4,6 +4,13 @@ Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
+<!-- metadata: 4j14qbakw9 -->
+<!-- metadata: 1z1m3m2a8x -->
+<!-- metadata: grpainfnus -->
+<!-- metadata: ptretwpcvg -->
+<!-- metadata: s2r8lmbxtf -->
+<!-- metadata: d82pll98zp -->
+<!-- metadata: m0qkqujs50 -->
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
@@ -58,10 +65,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
-
-All variables are optional.
-
----
 
 ## File map
 
