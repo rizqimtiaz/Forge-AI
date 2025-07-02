@@ -25,8 +25,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
-<!-- metadata: gx23wcbsja -->
-<!-- metadata: ac24aw66wy -->
 
 ---
 
@@ -69,6 +67,7 @@ All variables are optional.
 
 ```
 app/
+  api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
