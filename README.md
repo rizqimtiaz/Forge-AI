@@ -60,11 +60,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
 All variables are optional.
-<!-- metadata: cxvscw837g -->
-<!-- metadata: y1yx71t7jv -->
-<!-- metadata: 4raneda3vw -->
-<!-- metadata: a26cf3cm8k -->
-<!-- metadata: pf6gjp8j9s -->
 
 ---
 
@@ -106,6 +101,10 @@ store/
 
 ---
 
+## Scripts
+
+| Command | |
+| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
