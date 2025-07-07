@@ -80,6 +80,7 @@ app/
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
+<!-- metadata: q2b3vyef0u -->
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
@@ -99,7 +100,6 @@ store/
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
----
 
 ## Scripts
 
