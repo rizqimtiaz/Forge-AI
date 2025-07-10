@@ -77,6 +77,9 @@ app/
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
+  globals.css
+components/
+  navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
@@ -112,7 +115,4 @@ store/
 
 ## License
 
-<!-- metadata: sldiqjtu3y -->
-<!-- metadata: 0zlrzso1zm -->
-<!-- metadata: 7h74z41p9t -->
 MIT © Forge-AI Labs
