@@ -74,8 +74,6 @@ app/
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
-<!-- metadata: vo7l53bu6o -->
-<!-- metadata: 36qd5g8evr -->
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
@@ -109,6 +107,8 @@ store/
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
+| `npm run start` | Serve the production build |
+| `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
