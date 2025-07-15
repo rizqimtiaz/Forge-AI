@@ -58,9 +58,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
-
-All variables are optional.
-
 ---
 
 ## File map
@@ -75,6 +72,7 @@ app/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
+<!-- metadata: 4bli9miipf -->
   layout.tsx
   page.tsx
   globals.css
