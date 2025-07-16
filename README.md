@@ -29,6 +29,13 @@ aesthetic via Tailwind CSS + Framer Motion.
 ---
 
 ## Getting started
+<!-- metadata: xbkblwzgqf -->
+<!-- metadata: 31mz796grm -->
+<!-- metadata: u96qfseton -->
+<!-- metadata: la3fc2orif -->
+<!-- metadata: mizp4hr69k -->
+<!-- metadata: whqmxzvm6k -->
+<!-- metadata: 944393f9wr -->
 
 ```bash
 # 1. install
@@ -69,8 +76,6 @@ All variables are optional.
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-    semantic-draw/route.ts     # ControlNet + latent interpretation
-    graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
