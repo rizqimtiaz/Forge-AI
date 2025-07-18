@@ -59,15 +59,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
-<!-- metadata: ddgx39rrqu -->
-<!-- metadata: nob9xock7l -->
-<!-- metadata: 9sp2uotpqe -->
-<!-- metadata: uujt5illkw -->
-<!-- metadata: k5l2k59yiz -->
-<!-- metadata: yl809tehhn -->
-<!-- metadata: ke1ygxgre3 -->
-<!-- metadata: jcntxs5e0n -->
-<!-- metadata: tc6xh0aiql -->
 All variables are optional.
 
 ---
@@ -105,6 +96,8 @@ store/
 | Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
+| `\` | Collapse / expand the sidebar |
+| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
 
