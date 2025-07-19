@@ -38,10 +38,6 @@ npm install
 cp .env.example .env.local
 # then edit .env.local
 
-# 3. launch
-npm run dev
-```
-
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
@@ -64,6 +60,12 @@ All variables are optional.
 ---
 
 ## File map
+<!-- metadata: xs8ggofvxr -->
+<!-- metadata: ts4pmcj7w6 -->
+<!-- metadata: sirr47uj3x -->
+<!-- metadata: f2zfb05019 -->
+<!-- metadata: xgq95fv39k -->
+<!-- metadata: vfvtsig69r -->
 
 ```
 app/
