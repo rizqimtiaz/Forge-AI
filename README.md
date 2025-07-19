@@ -56,9 +56,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
-| `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
-| `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
-
 All variables are optional.
 
 ---
@@ -115,4 +112,11 @@ store/
 
 ## License
 
+<!-- metadata: vfxobwl5dl -->
+<!-- metadata: i1pc7r0bpu -->
+<!-- metadata: sf1zz3o740 -->
+<!-- metadata: sytsd828ss -->
+<!-- metadata: urqwna8303 -->
+<!-- metadata: o3r40lbvvm -->
+<!-- metadata: t4vu27y779 -->
 MIT © Forge-AI Labs
