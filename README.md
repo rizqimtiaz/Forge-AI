@@ -35,10 +35,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 npm install
 
 # 2. (optional) wire up AI credentials
-<!-- metadata: zc7mnv85n9 -->
-<!-- metadata: lbs5fjt0fs -->
-<!-- metadata: ze4u1281tz -->
-<!-- metadata: 88fumfxbv0 -->
 cp .env.example .env.local
 # then edit .env.local
 
@@ -106,6 +102,8 @@ store/
 ---
 
 ## Scripts
+
+| Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
