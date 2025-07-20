@@ -66,6 +66,8 @@ All variables are optional.
 ## File map
 
 ```
+<!-- metadata: i5g94t1hal -->
+<!-- metadata: 8lre83avl0 -->
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
@@ -75,9 +77,6 @@ app/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
-  layout.tsx
-  page.tsx
-  globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
