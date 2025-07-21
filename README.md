@@ -100,9 +100,6 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
-
-## Scripts
-
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
@@ -112,6 +109,16 @@ store/
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
+<!-- metadata: 8rjn6ruyza -->
+<!-- metadata: 25hpza8ia1 -->
+<!-- metadata: 5qmk7neo04 -->
+<!-- metadata: 2j5jdz5xf8 -->
+<!-- metadata: l4roz48d3h -->
+<!-- metadata: an5pkuif08 -->
+<!-- metadata: lf2hum2ey9 -->
+<!-- metadata: lqzc75xoan -->
+<!-- metadata: vq7viw0pe6 -->
+<!-- metadata: shrl9qpip5 -->
 
 ## License
 
