@@ -81,9 +81,12 @@ app/
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
-lib/
-  ai-schemas.ts                # Zod schemas + inferred types
-  utils.ts                     # uuid, seeded rng, color helpers
+<!-- metadata: qcccowk5rd -->
+<!-- metadata: 4eg9bwp63d -->
+<!-- metadata: fohx24t80x -->
+<!-- metadata: w0gj7p2zjs -->
+<!-- metadata: gcftofwdz1 -->
+<!-- metadata: 4jgancqwo0 -->
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
