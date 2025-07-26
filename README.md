@@ -29,6 +29,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 ---
 
 ## Getting started
+<!-- metadata: ycevsnne47 -->
+<!-- metadata: z71s4cfr7h -->
+<!-- metadata: 8qztbojzx4 -->
+<!-- metadata: 2xeow6wz91 -->
 
 ```bash
 # 1. install
@@ -82,10 +86,6 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
-  ai-schemas.ts                # Zod schemas + inferred types
-  utils.ts                     # uuid, seeded rng, color helpers
-  svg-placeholders.ts          # procedural fallbacks
-store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
