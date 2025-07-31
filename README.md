@@ -15,6 +15,11 @@ Every lab is powered by a single unified Zustand store (sliced into
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
+<!-- metadata: cnp3uthowq -->
+<!-- metadata: tgt9ro22qz -->
+<!-- metadata: oc8kvi0984 -->
+<!-- metadata: wtmvy8rycn -->
+<!-- metadata: 5a1hyuqnx9 -->
 ---
 
 ## Stack
@@ -79,8 +84,6 @@ app/
   page.tsx
   globals.css
 components/
-  navigation/Sidebar.tsx       # Animated lab switcher
-  ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
