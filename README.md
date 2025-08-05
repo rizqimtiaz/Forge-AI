@@ -74,7 +74,6 @@ app/
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
-    doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
   globals.css
@@ -88,6 +87,7 @@ lib/
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
+<!-- metadata: dlys6lf09d -->
 
 ---
 
