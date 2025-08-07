@@ -80,6 +80,13 @@ app/
   globals.css
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
+<!-- metadata: lwssl64uno -->
+<!-- metadata: gniz92oglz -->
+<!-- metadata: s57d92fxnq -->
+<!-- metadata: 0saoz0b64b -->
+<!-- metadata: gl3mc4lzxk -->
+<!-- metadata: j4obil1zvs -->
+<!-- metadata: xm3qhhb6hi -->
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
@@ -97,9 +104,6 @@ store/
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
-| `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
-
----
 
 ## Scripts
 
