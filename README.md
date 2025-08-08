@@ -67,6 +67,10 @@ All variables are optional.
 
 ```
 app/
+  api/
+    asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
+    semantic-draw/route.ts     # ControlNet + latent interpretation
+    graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
@@ -99,10 +103,6 @@ store/
 
 ## Scripts
 
-<!-- metadata: wasldazfz6 -->
-<!-- metadata: 2hp4hehlk0 -->
-<!-- metadata: mcamueo7cv -->
-<!-- metadata: dvb2vazdyo -->
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
