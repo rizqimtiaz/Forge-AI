@@ -66,10 +66,9 @@ All variables are optional.
 ## File map
 
 ```
-app/
-  api/
-    asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-    semantic-draw/route.ts     # ControlNet + latent interpretation
+<!-- metadata: 8pjfmddwgx -->
+<!-- metadata: jvp2mjlgyb -->
+<!-- metadata: nqqso505mo -->
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
