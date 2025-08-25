@@ -11,6 +11,16 @@ application:
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
+<!-- metadata: 8uwxyjuun2 -->
+<!-- metadata: zuyhigerlh -->
+<!-- metadata: knqj3634s5 -->
+<!-- metadata: iy33wmkcmb -->
+<!-- metadata: 5eetazi5ls -->
+<!-- metadata: 9v8rnt88z7 -->
+<!-- metadata: idonjqcv3p -->
+<!-- metadata: 84ds1bwid9 -->
+<!-- metadata: ii5v5129qc -->
+<!-- metadata: c3f0yymiz1 -->
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
@@ -47,10 +57,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
-
----
-
-## Environment variables
 
 | Variable | Purpose |
 | --- | --- |
