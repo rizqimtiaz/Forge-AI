@@ -83,11 +83,8 @@ components/
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
-<!-- metadata: nw0c914ezk -->
-<!-- metadata: l14mk1r2yi -->
-<!-- metadata: jr3dadlyl7 -->
-<!-- metadata: oaxza3e8pt -->
-<!-- metadata: mrljfetffx -->
+  utils.ts                     # uuid, seeded rng, color helpers
+  svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
