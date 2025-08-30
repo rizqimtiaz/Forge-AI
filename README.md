@@ -85,6 +85,12 @@ lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
+<!-- metadata: jc1qf5b7xk -->
+<!-- metadata: npd5ug8n6f -->
+<!-- metadata: nwku0akmkc -->
+<!-- metadata: vhdr6ruqlb -->
+<!-- metadata: cosst9qnzy -->
+<!-- metadata: fwd6rfizji -->
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
@@ -104,7 +110,6 @@ store/
 ## Scripts
 
 | Command | |
-| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
