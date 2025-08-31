@@ -53,6 +53,8 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ## Environment variables
 
 | Variable | Purpose |
+| --- | --- |
+| `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
@@ -69,16 +71,6 @@ app/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
-<!-- metadata: rq9s227dis -->
-<!-- metadata: 9os22v1tao -->
-<!-- metadata: y4xehc8rhl -->
-<!-- metadata: 7tq8qqiws2 -->
-<!-- metadata: 66893ts5ho -->
-<!-- metadata: c4i82pcpgf -->
-<!-- metadata: 2qr2nf3lq9 -->
-<!-- metadata: kqqu6btmgz -->
-<!-- metadata: tjgqy9gk54 -->
-<!-- metadata: e72yk20jj1 -->
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
