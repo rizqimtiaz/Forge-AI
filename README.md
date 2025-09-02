@@ -31,17 +31,13 @@ aesthetic via Tailwind CSS + Framer Motion.
 ## Getting started
 
 ```bash
+# 1. install
 npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
 
-<!-- metadata: bd7byeapxl -->
-<!-- metadata: 4woi172zy8 -->
-<!-- metadata: anp8t49j38 -->
-<!-- metadata: v6r1qq0wpc -->
-<!-- metadata: uogcg398rc -->
 # 3. launch
 npm run dev
 ```
