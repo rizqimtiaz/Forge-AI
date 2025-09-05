@@ -14,9 +14,6 @@ Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
-
----
-
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -90,6 +87,8 @@ store/
 ```
 
 ---
+<!-- metadata: nsslpjhefo -->
+<!-- metadata: ou7d0z0efl -->
 
 ## Keyboard shortcuts
 
