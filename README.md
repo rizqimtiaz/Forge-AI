@@ -11,7 +11,6 @@ application:
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
 Every lab is powered by a single unified Zustand store (sliced into
-`assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
@@ -103,6 +102,7 @@ store/
 
 ## Scripts
 
+<!-- metadata: g04phjk5aa -->
 | Command | |
 | --- | --- |
 | `npm run dev` | Start the dev server |
