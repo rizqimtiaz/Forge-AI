@@ -25,12 +25,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
-<!-- metadata: q7cru1l6d9 -->
-<!-- metadata: v4y1uik4gn -->
-<!-- metadata: 5gvbote847 -->
-<!-- metadata: ujfxihvlcg -->
-<!-- metadata: zy1yvmf8s2 -->
-<!-- metadata: 2dvgdf925b -->
 
 ---
 
@@ -66,6 +60,8 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
 All variables are optional.
+
+---
 
 ## File map
 
