@@ -75,6 +75,10 @@ app/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
+  layout.tsx
+  page.tsx
+  globals.css
+components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
@@ -97,10 +101,6 @@ store/
 
 ---
 
-<!-- metadata: xipyelfuq2 -->
-<!-- metadata: kijhrxznt0 -->
-<!-- metadata: eo3wl3vs5v -->
-<!-- metadata: ris5a62a93 -->
 ## Scripts
 
 | Command | |
