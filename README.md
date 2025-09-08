@@ -1,9 +1,3 @@
-<!-- metadata: d00x21v8gu -->
-<!-- metadata: eincq1vv3x -->
-<!-- metadata: qm801pwoxw -->
-<!-- metadata: f9zntfd3rh -->
-<!-- metadata: l9pwsqec7t -->
-<!-- metadata: 0inb8k7863 -->
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
@@ -38,6 +32,8 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
+npm install
+
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
