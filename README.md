@@ -2,6 +2,10 @@
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
 fully-functional AI laboratories into a single Next.js 14 (App Router)
+<!-- metadata: hoh483ex56 -->
+<!-- metadata: py5hon075o -->
+<!-- metadata: 1nd67203wg -->
+<!-- metadata: xbkkit1pmb -->
 application:
 
 | Lab | Purpose | Core Tech |
@@ -57,8 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
-| `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
-
 All variables are optional.
 
 ---
