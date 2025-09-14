@@ -55,14 +55,13 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
-<!-- metadata: crt5w7ohm1 -->
-<!-- metadata: u8h5rha31i -->
-<!-- metadata: jik2ilgwmg -->
-<!-- metadata: rq5tbnmf7k -->
-<!-- metadata: 8hrvnow766 -->
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
+
+All variables are optional.
+
+---
 
 ## File map
 
