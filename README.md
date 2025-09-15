@@ -21,16 +21,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
-<!-- metadata: 72g1m0b6ye -->
-<!-- metadata: l30l428duo -->
-<!-- metadata: qkctsrs7l1 -->
-<!-- metadata: opi6oc3n0i -->
-<!-- metadata: 4e7gw1jik7 -->
-<!-- metadata: whlp2zc1t3 -->
-<!-- metadata: 17skj9axfe -->
-<!-- metadata: u5eou9wdnp -->
-<!-- metadata: f8u8smbwbr -->
-<!-- metadata: 5rkxxnlhv0 -->
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
@@ -67,6 +57,8 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
+| `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
+
 All variables are optional.
 
 ---
