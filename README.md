@@ -40,12 +40,6 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
-<!-- metadata: 5znvdq25mn -->
-<!-- metadata: p55z4bn31w -->
-<!-- metadata: f1ya4oetzn -->
-<!-- metadata: yjtyxv0bzg -->
-<!-- metadata: 5uk223lowr -->
-<!-- metadata: wn6nrptsk9 -->
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
@@ -110,6 +104,7 @@ store/
 ## Scripts
 
 | Command | |
+| --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve the production build |
