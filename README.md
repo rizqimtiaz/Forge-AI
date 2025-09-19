@@ -73,9 +73,6 @@ app/
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
-<!-- metadata: 4uvne80ib1 -->
-<!-- metadata: 3iqnopv6pe -->
-<!-- metadata: u7s2c5pypo -->
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
@@ -103,6 +100,8 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
+
+## Scripts
 
 | Command | |
 | --- | --- |
