@@ -66,6 +66,7 @@ All variables are optional.
 ## File map
 
 ```
+app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
@@ -77,10 +78,6 @@ All variables are optional.
   layout.tsx
   page.tsx
   globals.css
-<!-- metadata: 37rf012z70 -->
-<!-- metadata: ozvbjd5h3p -->
-<!-- metadata: m6a389acb0 -->
-<!-- metadata: 116t4rh506 -->
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
