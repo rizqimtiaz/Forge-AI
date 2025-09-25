@@ -1,5 +1,3 @@
-<!-- metadata: e58717gk0q -->
-<!-- metadata: l9rwdo28nq -->
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
@@ -64,6 +62,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 All variables are optional.
 
 ---
+
+## File map
+
+```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
