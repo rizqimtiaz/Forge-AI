@@ -12,11 +12,6 @@ application:
 
 Every lab is powered by a single unified Zustand store (sliced into
 `assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
-<!-- metadata: j4nb60c677 -->
-<!-- metadata: xstyfssbbc -->
-<!-- metadata: 7veemeprqm -->
-<!-- metadata: 244ohx4r73 -->
-<!-- metadata: 7znftmrfjn -->
 schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
 aesthetic via Tailwind CSS + Framer Motion.
 
@@ -27,6 +22,7 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
+- **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
