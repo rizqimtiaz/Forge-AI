@@ -40,7 +40,6 @@ cp .env.example .env.local
 
 # 3. launch
 npm run dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
@@ -53,6 +52,15 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ## Environment variables
 
 | Variable | Purpose |
+<!-- metadata: 0ra47rw56m -->
+<!-- metadata: mgftmdvxep -->
+<!-- metadata: 4b51dcf3mx -->
+<!-- metadata: uejafnnhdg -->
+<!-- metadata: jt85kjdm82 -->
+<!-- metadata: f560cz9169 -->
+<!-- metadata: wks5t292zs -->
+<!-- metadata: x0lwsz29ip -->
+<!-- metadata: 3gd62myk3u -->
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
