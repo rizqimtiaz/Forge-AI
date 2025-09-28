@@ -55,6 +55,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
+| `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
 
@@ -77,15 +78,6 @@ app/
   layout.tsx
   page.tsx
   globals.css
-<!-- metadata: m7bwmgn40b -->
-<!-- metadata: hyjgfeb7ym -->
-<!-- metadata: nfajyftoxg -->
-<!-- metadata: 0rshgbnxvv -->
-<!-- metadata: isqzc2rb7o -->
-<!-- metadata: 8lj06aj9b5 -->
-<!-- metadata: u8iremhb5o -->
-<!-- metadata: s64tim4wvl -->
-<!-- metadata: d5s6820h5w -->
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
