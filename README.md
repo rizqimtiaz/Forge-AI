@@ -26,10 +26,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
----
-
-## Getting started
-
 ```bash
 # 1. install
 npm install
@@ -81,6 +77,8 @@ app/
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
+<!-- metadata: wdvrq417i6 -->
+<!-- metadata: zyt09m54yb -->
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
