@@ -61,10 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
----
-
-## File map
-
 ```
 app/
   api/
@@ -87,6 +83,10 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
+<!-- metadata: 7u9qcn7re8 -->
+<!-- metadata: kbakesa1bj -->
+<!-- metadata: bawa3qrz3a -->
+<!-- metadata: r41qxdx2q1 -->
 ```
 
 ---
