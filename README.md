@@ -27,10 +27,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
-
-## Getting started
-
-```bash
 # 1. install
 npm install
 
@@ -104,6 +100,16 @@ store/
 ## Scripts
 
 | Command | |
+<!-- metadata: ygebfruw5p -->
+<!-- metadata: m7r07k73hn -->
+<!-- metadata: rl5j7p4e6a -->
+<!-- metadata: hcve8ny2i2 -->
+<!-- metadata: jc0vgxu3zx -->
+<!-- metadata: yxz40r2843 -->
+<!-- metadata: 91f6eoppvq -->
+<!-- metadata: 00xz70iwri -->
+<!-- metadata: 13c2emn97c -->
+<!-- metadata: 8ltpt5iw1n -->
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
