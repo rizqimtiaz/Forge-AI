@@ -29,9 +29,13 @@ aesthetic via Tailwind CSS + Framer Motion.
 ---
 
 ## Getting started
-
 ```bash
 # 1. install
+<!-- metadata: 168moz79jn -->
+<!-- metadata: 4qu46rliq0 -->
+<!-- metadata: 81wn7b6xzd -->
+<!-- metadata: hremencr7s -->
+<!-- metadata: ul3e0fky9v -->
 npm install
 
 # 2. (optional) wire up AI credentials
