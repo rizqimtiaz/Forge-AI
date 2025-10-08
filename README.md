@@ -28,6 +28,16 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
+<!-- metadata: kt7i27wic6 -->
+<!-- metadata: fdjypvl6kz -->
+<!-- metadata: bpo3sqlbpd -->
+<!-- metadata: 45a6btsgmm -->
+<!-- metadata: yi5ix1hn5c -->
+<!-- metadata: qj56mbzump -->
+<!-- metadata: kni8d833zk -->
+<!-- metadata: hig1llkup3 -->
+<!-- metadata: htkckmhjnq -->
+<!-- metadata: bf8bjnw42l -->
 ## Getting started
 
 ```bash
@@ -51,7 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ---
 
 ## Environment variables
-
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
