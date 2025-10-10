@@ -38,7 +38,6 @@ npm install
 cp .env.example .env.local
 # then edit .env.local
 
-# 3. launch
 npm run dev
 ```
 
@@ -94,6 +93,15 @@ store/
 ## Keyboard shortcuts
 
 | Key | Action |
+<!-- metadata: qxhxce8q0l -->
+<!-- metadata: 2j8bvt5k4i -->
+<!-- metadata: 4tvzp0dicq -->
+<!-- metadata: hfoe648gzq -->
+<!-- metadata: f4ut66dcj9 -->
+<!-- metadata: aovhrim61d -->
+<!-- metadata: 5qtiubeuhj -->
+<!-- metadata: t6u530ud0p -->
+<!-- metadata: kp9yxxbf4x -->
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
