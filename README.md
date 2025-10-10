@@ -22,6 +22,8 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
+<!-- metadata: syvp6c59lj -->
+<!-- metadata: woc9q4uscn -->
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
@@ -86,10 +88,6 @@ lib/
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
-  useForgeStore.ts             # Zustand store with three slices
-```
-
----
 
 ## Keyboard shortcuts
 
