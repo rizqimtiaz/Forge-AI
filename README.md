@@ -34,10 +34,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
-# 2. (optional) wire up AI credentials
-cp .env.example .env.local
-# then edit .env.local
-
 # 3. launch
 npm run dev
 ```
@@ -116,3 +112,10 @@ store/
 ## License
 
 MIT © Forge-AI Labs
+<!-- metadata: 3cliakrkpd -->
+<!-- metadata: b658nvdgbg -->
+<!-- metadata: u7qhoh6ugn -->
+<!-- metadata: fl9ceyo20x -->
+<!-- metadata: 54v4tt0tr1 -->
+<!-- metadata: aq3uvknkid -->
+<!-- metadata: vb6p1jxbou -->
