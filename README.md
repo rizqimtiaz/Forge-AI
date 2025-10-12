@@ -32,6 +32,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ```bash
 # 1. install
+<!-- metadata: trqr7rkvvg -->
+<!-- metadata: s4x43vxao9 -->
+<!-- metadata: 1v2bjtjjt1 -->
+<!-- metadata: jytnfkfwr7 -->
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -63,9 +67,6 @@ All variables are optional.
 
 ---
 
-## File map
-
-```
 app/
   api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
