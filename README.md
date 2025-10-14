@@ -48,6 +48,13 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
+<!-- metadata: 1e235w4omg -->
+<!-- metadata: zvccmtom0c -->
+<!-- metadata: txz0gy2d9s -->
+<!-- metadata: 4kxf8oqah3 -->
+<!-- metadata: 7g4kdunrkb -->
+<!-- metadata: 7xlvaj5pp1 -->
+<!-- metadata: 2vy1fxk7i8 -->
 ---
 
 ## Environment variables
@@ -87,9 +94,6 @@ lib/
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
-```
-
----
 
 ## Keyboard shortcuts
 
