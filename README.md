@@ -34,14 +34,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
-<!-- metadata: wu62p98dh9 -->
-<!-- metadata: yzc1yo62qp -->
-<!-- metadata: 547kr9pnz1 -->
-<!-- metadata: ib162xn4cn -->
-<!-- metadata: cys3xfbdfe -->
-<!-- metadata: 5s3ffnvvcu -->
-<!-- metadata: lk5lvlbblv -->
-<!-- metadata: l6fwriw7l9 -->
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
@@ -55,6 +47,10 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
+
+---
+
+## Environment variables
 
 | Variable | Purpose |
 | --- | --- |
