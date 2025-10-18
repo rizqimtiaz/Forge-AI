@@ -45,6 +45,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
+> produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -88,16 +89,6 @@ store/
   useForgeStore.ts             # Zustand store with three slices
 ```
 
-<!-- metadata: 0je83zc651 -->
-<!-- metadata: 3my16qr5i1 -->
-<!-- metadata: scqxwbzjii -->
-<!-- metadata: 4h1sqv2scm -->
-<!-- metadata: r7n5z41n70 -->
-<!-- metadata: bgewq3qf0c -->
-<!-- metadata: 19ma4uzulv -->
-<!-- metadata: wnx1qef77q -->
-<!-- metadata: 9z07a43ghr -->
-<!-- metadata: pnng2fbs6a -->
 ---
 
 ## Keyboard shortcuts
