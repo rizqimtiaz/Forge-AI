@@ -26,13 +26,22 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
+<!-- metadata: r2mi9z51sy -->
+<!-- metadata: nedkzy41l6 -->
+<!-- metadata: 3hz0yipj14 -->
+<!-- metadata: lx8gw6kzhb -->
+<!-- metadata: 9butdw2klw -->
+<!-- metadata: b3ldyw48nl -->
+<!-- metadata: t1g8xgtq7u -->
+<!-- metadata: b4032mu5ar -->
+<!-- metadata: bod8j31h1y -->
+<!-- metadata: huys477dw0 -->
 ---
 
 ## Getting started
 
 ```bash
 # 1. install
-npm install
 
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
