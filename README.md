@@ -79,6 +79,16 @@ app/
   page.tsx
   globals.css
 components/
+<!-- metadata: 7mhkx10ayw -->
+<!-- metadata: g9nkgcf4cn -->
+<!-- metadata: ola8gfdasp -->
+<!-- metadata: cx91bcqg50 -->
+<!-- metadata: l9djpd5g9c -->
+<!-- metadata: js26rq7wy5 -->
+<!-- metadata: yxcx8cgkeg -->
+<!-- metadata: mwmm1pjidf -->
+<!-- metadata: p72leido26 -->
+<!-- metadata: lymxp077ik -->
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
@@ -100,8 +110,6 @@ store/
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
 
 ---
-
-## Scripts
 
 | Command | |
 | --- | --- |
