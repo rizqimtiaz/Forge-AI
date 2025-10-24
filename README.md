@@ -74,6 +74,15 @@ app/
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
+<!-- metadata: t70ulugipx -->
+<!-- metadata: bdr5ayygz9 -->
+<!-- metadata: uaqpjr24we -->
+<!-- metadata: z9e2vd3qrp -->
+<!-- metadata: njair4excb -->
+<!-- metadata: mvhz9kxgwv -->
+<!-- metadata: m9ufxh90tl -->
+<!-- metadata: 7rlkg309e3 -->
+<!-- metadata: kwm1phz4zx -->
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
@@ -98,8 +107,6 @@ store/
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
-
----
 
 ## Scripts
 
