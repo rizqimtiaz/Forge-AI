@@ -46,6 +46,8 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
+> you can clone → `npm run dev` → demo instantly.
+
 ---
 
 ## Environment variables
@@ -110,9 +112,6 @@ store/
 | `npm run typecheck` | TypeScript `--noEmit` |
 
 ---
-<!-- metadata: izb16fyfyx -->
-<!-- metadata: nkygg5crhu -->
-<!-- metadata: h96c083xy9 -->
 
 ## License
 
