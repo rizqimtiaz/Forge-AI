@@ -5,6 +5,13 @@ fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
 | Lab | Purpose | Core Tech |
+<!-- metadata: r7okycjamk -->
+<!-- metadata: betutby4ha -->
+<!-- metadata: dg5l2hamrk -->
+<!-- metadata: wh0wjm7aym -->
+<!-- metadata: 6rd4ys6819 -->
+<!-- metadata: al26cridgs -->
+<!-- metadata: iy6aq3qk4g -->
 | --- | --- | --- |
 | **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
@@ -83,8 +90,6 @@ components/
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
-  utils.ts                     # uuid, seeded rng, color helpers
-  svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
