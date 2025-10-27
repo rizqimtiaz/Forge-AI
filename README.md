@@ -19,6 +19,12 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Stack
 
+<!-- metadata: 0ujefktt31 -->
+<!-- metadata: xuthzxfvvw -->
+<!-- metadata: v4elv5lg9n -->
+<!-- metadata: u9wf327pzy -->
+<!-- metadata: sqdd092aea -->
+<!-- metadata: 75jeo1uzez -->
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -39,10 +45,6 @@ cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
