@@ -52,7 +52,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
-<!-- metadata: xkax58y2f8 -->
 | Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
@@ -72,6 +71,9 @@ app/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
+  (labs)/
+    asset-ai/page.tsx          # Parametric e-commerce UI
+    chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
