@@ -24,6 +24,13 @@ aesthetic via Tailwind CSS + Framer Motion.
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
+<!-- metadata: u7vy5jno84 -->
+<!-- metadata: 2dcsq8qubi -->
+<!-- metadata: 9p2at48e8a -->
+<!-- metadata: 9bah1e3heb -->
+<!-- metadata: yyguaunggp -->
+<!-- metadata: zb41ier0i7 -->
+<!-- metadata: uccai2kecp -->
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
 ---
@@ -71,10 +78,6 @@ app/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
-  (labs)/
-    asset-ai/page.tsx          # Parametric e-commerce UI
-    chromasketch/page.tsx      # Dual-canvas dream board
-    doculens/page.tsx          # Ontology graph explorer
   layout.tsx
   page.tsx
   globals.css
