@@ -42,8 +42,6 @@ cp .env.example .env.local
 npm run dev
 ```
 
-<!-- metadata: eb24c57j04 -->
-<!-- metadata: 6kwfnudkan -->
 Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
@@ -84,6 +82,7 @@ components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
+  ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
