@@ -1,6 +1,7 @@
 # Forge-AI · Three Labs, One Intelligence
 
 Forge-AI is a production-ready monorepo bundling three groundbreaking,
+fully-functional AI laboratories into a single Next.js 14 (App Router)
 application:
 
 | Lab | Purpose | Core Tech |
@@ -52,16 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 ## Environment variables
 
 | Variable | Purpose |
-<!-- metadata: 7o2waeuoo0 -->
-<!-- metadata: cfxs8nul0t -->
-<!-- metadata: 44qekiyc7n -->
-<!-- metadata: 5iqrvz34yc -->
-<!-- metadata: argh0l89gd -->
-<!-- metadata: yf90k57g9o -->
-<!-- metadata: uw9hqx79xq -->
-<!-- metadata: mvoblzme72 -->
-<!-- metadata: r2ds4gbymu -->
-<!-- metadata: nut3fn09nt -->
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
