@@ -37,6 +37,11 @@ npm install
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
+<!-- metadata: mc1kvo0l21 -->
+<!-- metadata: x0434ortv8 -->
+<!-- metadata: sql7myiszy -->
+<!-- metadata: ylt8cs1cty -->
+<!-- metadata: 3kxdgsv6ks -->
 
 # 3. launch
 npm run dev
@@ -104,9 +109,6 @@ store/
 ## Scripts
 
 | Command | |
-| --- | --- |
-| `npm run dev` | Start the dev server |
-| `npm run build` | Production build |
 | `npm run start` | Serve the production build |
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
