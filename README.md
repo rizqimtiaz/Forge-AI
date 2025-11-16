@@ -19,6 +19,16 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ## Stack
 
+<!-- metadata: m7r422eyru -->
+<!-- metadata: ru3fvvy6td -->
+<!-- metadata: amkqdwbag0 -->
+<!-- metadata: xyxrs2pmpv -->
+<!-- metadata: h4umwb24dx -->
+<!-- metadata: afkgij2aph -->
+<!-- metadata: qc1scq11kg -->
+<!-- metadata: irxwrn4dyg -->
+<!-- metadata: f13iuogs90 -->
+<!-- metadata: l7mmu7np0w -->
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
 - **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
@@ -91,9 +101,6 @@ store/
 
 ---
 
-## Keyboard shortcuts
-
-| Key | Action |
 | --- | --- |
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
