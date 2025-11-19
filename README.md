@@ -28,6 +28,10 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
+## Getting started
+
+```bash
+# 1. install
 npm install
 
 # 2. (optional) wire up AI credentials
@@ -97,11 +101,6 @@ store/
 
 ---
 
-<!-- metadata: a0bvpmmgrt -->
-<!-- metadata: dloozms0dj -->
-<!-- metadata: vetpj9p8r8 -->
-<!-- metadata: pmheeb7005 -->
-<!-- metadata: 83bkk7h3yn -->
 ## Scripts
 
 | Command | |
