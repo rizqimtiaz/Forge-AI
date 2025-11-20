@@ -66,12 +66,9 @@ All variables are optional.
 ## File map
 
 ```
+app/
+  api/
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-<!-- metadata: i5wldi4mi8 -->
-<!-- metadata: 7mry2q5p8m -->
-<!-- metadata: scx6cdwhnc -->
-<!-- metadata: cqd6xdag3b -->
-<!-- metadata: cvcqh5ikk0 -->
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
