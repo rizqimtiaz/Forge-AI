@@ -61,6 +61,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
+---
 
 ## File map
 
@@ -103,15 +104,6 @@ store/
 ## Scripts
 
 | Command | |
-<!-- metadata: rnlsn722gh -->
-<!-- metadata: rugu2vr0kn -->
-<!-- metadata: 524b6qf7sb -->
-<!-- metadata: 9r8u6n3k0u -->
-<!-- metadata: ajdoadw8wl -->
-<!-- metadata: un7ipodfbn -->
-<!-- metadata: 3zlfr4n2qt -->
-<!-- metadata: guork1h54d -->
-<!-- metadata: dmg9qpx5vq -->
 | --- | --- |
 | `npm run dev` | Start the dev server |
 | `npm run build` | Production build |
