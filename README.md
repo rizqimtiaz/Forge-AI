@@ -17,13 +17,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
-<!-- metadata: zai6hwxy8y -->
-<!-- metadata: 8fum341g5u -->
-<!-- metadata: kxerq07g4d -->
-<!-- metadata: c7ulrtgpg0 -->
-<!-- metadata: i22oaoj55x -->
-<!-- metadata: kc34kohehz -->
-<!-- metadata: tobjd7rsbz -->
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
@@ -59,6 +52,7 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ## Environment variables
 
+| Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
