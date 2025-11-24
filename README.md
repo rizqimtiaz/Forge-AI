@@ -33,9 +33,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 ```bash
 # 1. install
 npm install
-
-# 2. (optional) wire up AI credentials
-cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
@@ -101,6 +98,10 @@ store/
 
 ---
 
+<!-- metadata: t5n0yknhmw -->
+<!-- metadata: 4b4svkl3fm -->
+<!-- metadata: mhlmp4xukz -->
+<!-- metadata: ga6e38qnqd -->
 ## Scripts
 
 | Command | |
