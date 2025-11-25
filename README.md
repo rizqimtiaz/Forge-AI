@@ -6,6 +6,7 @@ application:
 
 | Lab | Purpose | Core Tech |
 | --- | --- | --- |
+| **Asset-AI** | Parametric e-commerce — replace product backgrounds while preserving lighting | Segment-Anything-2, Stable Diffusion Inpainting, custom canvas compositor |
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
@@ -94,15 +95,6 @@ store/
 
 | Key | Action |
 | --- | --- |
-<!-- metadata: gfxiq5n60x -->
-<!-- metadata: zstkgq6q6h -->
-<!-- metadata: rk3zxfsx9f -->
-<!-- metadata: f78sye9rwv -->
-<!-- metadata: 95h9ttldu9 -->
-<!-- metadata: sq3hngjc5b -->
-<!-- metadata: 0hmi1evjzq -->
-<!-- metadata: fbv10ysnst -->
-<!-- metadata: u5zptea5z6 -->
 | `1` / `2` / `3` | Jump to Asset-AI / ChromaSketch / Doculens |
 | `\` | Collapse / expand the sidebar |
 | `⌘Z` / `⌘⇧Z` | Undo / redo strokes in ChromaSketch |
