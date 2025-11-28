@@ -54,7 +54,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 | Variable | Purpose |
 | --- | --- |
-| `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
 | `STABILITY_API_KEY` | Stable Diffusion Inpainting for Asset-AI |
 | `REPLICATE_API_TOKEN` | SAM-2 + SDXL ControlNet for Asset-AI / ChromaSketch |
@@ -85,6 +84,13 @@ lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
+<!-- metadata: l3zwx87gmg -->
+<!-- metadata: j4is27ihxr -->
+<!-- metadata: e9ml9bas1f -->
+<!-- metadata: 0gdfj7qqnu -->
+<!-- metadata: bqvvh1oke7 -->
+<!-- metadata: mvkoh00qkm -->
+<!-- metadata: nyvbb331gf -->
 store/
   useForgeStore.ts             # Zustand store with three slices
 ```
