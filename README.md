@@ -61,6 +61,13 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 All variables are optional.
 
+<!-- metadata: nf8af1crol -->
+<!-- metadata: e5nkcw43ag -->
+<!-- metadata: a7zovv1f6y -->
+<!-- metadata: 0p4x1wwy5x -->
+<!-- metadata: 385vawpl46 -->
+<!-- metadata: xe2o6hoh51 -->
+<!-- metadata: ennaebczze -->
 ---
 
 ## File map
@@ -76,9 +83,6 @@ app/
     chromasketch/page.tsx      # Dual-canvas dream board
     doculens/page.tsx          # Ontology graph explorer
   layout.tsx
-  page.tsx
-  globals.css
-components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
 lib/
