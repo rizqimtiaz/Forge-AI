@@ -39,6 +39,16 @@ cp .env.example .env.local
 # then edit .env.local
 
 # 3. launch
+<!-- metadata: kykcjwec0p -->
+<!-- metadata: kl92ih378y -->
+<!-- metadata: 5cj357m8ga -->
+<!-- metadata: r7te22nmly -->
+<!-- metadata: gvhxu379z4 -->
+<!-- metadata: b02zpxlhqz -->
+<!-- metadata: xcq3bca41i -->
+<!-- metadata: aycmcm3x0p -->
+<!-- metadata: wup02fnztl -->
+<!-- metadata: cs27mobff1 -->
 npm run dev
 ```
 
@@ -68,9 +78,6 @@ All variables are optional.
 ```
 app/
   api/
-    asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
-    semantic-draw/route.ts     # ControlNet + latent interpretation
-    graph-ingest/route.ts      # OCR + triple extraction
   (labs)/
     asset-ai/page.tsx          # Parametric e-commerce UI
     chromasketch/page.tsx      # Dual-canvas dream board
