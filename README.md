@@ -34,6 +34,8 @@ aesthetic via Tailwind CSS + Framer Motion.
 # 1. install
 npm install
 
+<!-- metadata: dyb0spkdxy -->
+<!-- metadata: i433cqxdwr -->
 # 2. (optional) wire up AI credentials
 cp .env.example .env.local
 # then edit .env.local
@@ -50,9 +52,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 ---
 
-## Environment variables
-
-| Variable | Purpose |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Claude Opus 4.7 — prompts, interpretations, triples |
 | `OPENAI_API_KEY` | GPT-4o Vision — OCR + object detection for Doculens |
