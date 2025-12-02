@@ -10,6 +10,10 @@ application:
 | **ChromaSketch** | Semantic drawing — the AI renders your intent in real time | ControlNet-conditioned SDXL, vector stroke pipeline |
 | **Doculens** | Ontological asset mapping — a Neo4j-style JSON-LD graph of your image library | GPT-4o Vision OCR, Claude Opus 4.7 triple extraction |
 
+Every lab is powered by a single unified Zustand store (sliced into
+`assetSlice`, `sketchSlice`, and `graphSlice`), validated by shared Zod
+schemas in `lib/ai-schemas.ts`, and rendered in an "Scientific Dark Mode"
+aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
@@ -26,13 +30,6 @@ application:
 
 ## Getting started
 
-<!-- metadata: 8cnxsy6feu -->
-<!-- metadata: vooc4vvpve -->
-<!-- metadata: pg8kzicpo3 -->
-<!-- metadata: xytf73dpjz -->
-<!-- metadata: mnp4abs6nb -->
-<!-- metadata: qwfosh8kj0 -->
-<!-- metadata: bdc0r9doml -->
 ```bash
 # 1. install
 npm install
