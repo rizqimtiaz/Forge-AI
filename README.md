@@ -20,6 +20,9 @@ aesthetic via Tailwind CSS + Framer Motion.
 ## Stack
 
 - **Framework** — Next.js 14 (App Router, TypeScript, React 18)
+- **State** — Zustand with three slices and selective `persist` middleware
+- **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
+- **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
 - **UI affordances** — `lucide-react`, `react-dropzone`, `canvas-confetti`, `clsx`
 
@@ -113,8 +116,3 @@ store/
 ## License
 
 MIT © Forge-AI Labs
-<!-- metadata: hpkgdal3ai -->
-<!-- metadata: 9aju8brozw -->
-<!-- metadata: sknumuuzeo -->
-<!-- metadata: fc054ya70n -->
-<!-- metadata: d6eijh30nq -->
