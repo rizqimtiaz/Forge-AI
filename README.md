@@ -84,9 +84,6 @@ components/
 lib/
   ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
-<!-- metadata: akptmgpp9d -->
-<!-- metadata: 5cm9so5gpi -->
-<!-- metadata: 2l47o228dk -->
   svg-placeholders.ts          # procedural fallbacks
 store/
   useForgeStore.ts             # Zustand store with three slices
@@ -114,5 +111,8 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
+---
+
+## License
 
 MIT © Forge-AI Labs
