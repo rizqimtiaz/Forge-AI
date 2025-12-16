@@ -17,10 +17,6 @@ aesthetic via Tailwind CSS + Framer Motion.
 
 ---
 
-## Stack
-
-- **Framework** — Next.js 14 (App Router, TypeScript, React 18)
-- **State** — Zustand with three slices and selective `persist` middleware
 - **Styling** — Tailwind CSS, custom Forge theme, Framer Motion
 - **AI** — Vercel AI SDK with Anthropic (Claude Opus 4.7) + OpenAI (GPT-4o / DALL-E 3)
 - **Validation** — Zod end-to-end (request, response, and internal contracts)
@@ -68,6 +64,13 @@ All variables are optional.
 ```
 app/
   api/
+<!-- metadata: pi7s27kllv -->
+<!-- metadata: fgz3amy3wx -->
+<!-- metadata: 1y3yigk9a3 -->
+<!-- metadata: 1nknocg7ij -->
+<!-- metadata: 7riuncnqru -->
+<!-- metadata: d2ibj5wllo -->
+<!-- metadata: 6mryl6a6qv -->
     asset-pipeline/route.ts    # SAM-2 + Stable Diffusion Inpainting
     semantic-draw/route.ts     # ControlNet + latent interpretation
     graph-ingest/route.ts      # OCR + triple extraction
