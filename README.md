@@ -48,14 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 > produces rich, visually-interesting output even when no API keys are set, so
 > you can clone → `npm run dev` → demo instantly.
 
-<!-- metadata: f0w9wdyz4s -->
-<!-- metadata: 7xhzj62bt9 -->
-<!-- metadata: fuos284elu -->
-<!-- metadata: prwxhzhzyf -->
-<!-- metadata: tuye11w28v -->
-<!-- metadata: 4u4oozguu1 -->
-<!-- metadata: 4uwy54huqi -->
-<!-- metadata: 5ps4ze1fa3 -->
 ---
 
 ## Environment variables
@@ -89,6 +81,8 @@ app/
 components/
   navigation/Sidebar.tsx       # Animated lab switcher
   ui/VisualEngine.tsx          # Shared high-performance canvas
+lib/
+  ai-schemas.ts                # Zod schemas + inferred types
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
