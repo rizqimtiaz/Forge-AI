@@ -46,6 +46,16 @@ Open [http://localhost:3000](http://localhost:3000) and click into any lab.
 
 > **Zero-config by design.** Every API route has a deterministic fallback that
 > produces rich, visually-interesting output even when no API keys are set, so
+<!-- metadata: 6qe99u6gmk -->
+<!-- metadata: vq4vrviw8p -->
+<!-- metadata: s3kdzrehdf -->
+<!-- metadata: 6joalklu6y -->
+<!-- metadata: kcdz7qfu3a -->
+<!-- metadata: 10gco15rql -->
+<!-- metadata: e1zzc56epx -->
+<!-- metadata: c8h5p1fcha -->
+<!-- metadata: y4a285hv6u -->
+<!-- metadata: x4p3sdv1rg -->
 > you can clone → `npm run dev` → demo instantly.
 
 ---
@@ -86,8 +96,6 @@ lib/
   utils.ts                     # uuid, seeded rng, color helpers
   svg-placeholders.ts          # procedural fallbacks
 store/
-  useForgeStore.ts             # Zustand store with three slices
-```
 
 ---
 
