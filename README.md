@@ -91,6 +91,7 @@ store/
 
 ---
 
+## Keyboard shortcuts
 
 | Key | Action |
 | --- | --- |
@@ -110,12 +111,6 @@ store/
 | `npm run lint` | ESLint (Next.js core-web-vitals) |
 | `npm run typecheck` | TypeScript `--noEmit` |
 
-<!-- metadata: 49ffqm64eg -->
-<!-- metadata: 4qhp32a5hb -->
-<!-- metadata: o0bmrwpfzf -->
-<!-- metadata: ozasxy1gs1 -->
-<!-- metadata: 84j8ozzrzu -->
-<!-- metadata: 8lzhd9maua -->
 ---
 
 ## License
